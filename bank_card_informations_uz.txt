@@ -1,0 +1,519 @@
+1. Bank kartalar nima
+
+Bank karta bu bank tomonidan mijozga beriladigan to‘lov vositasi bo‘lib, unda mijozning hisobvarag‘i bilan bog‘liq mablag‘lardan foydalanish imkoniyati bo‘ladi. Karta yordamida do‘konda to‘lov qilish, bankomatdan naqd pul yechish, mobil ilovada to‘lovlarni amalga oshirish, internet orqali xarid qilish va boshqa moliyaviy amallar bajariladi.
+
+O‘zbekistonda bank kartalar kundalik hayotning muhim qismiga aylangan. Ish haqi olish, pensiya va nafaqa qabul qilish, xizmatlar uchun to‘lov qilish, pul o‘tkazish va savdo amaliyotlarini bajarishda kartalardan keng foydalaniladi.
+
+Bank karta quyidagi asosiy qismlarga ega bo‘lishi mumkin:
+- karta raqami
+- amal qilish muddati
+- karta egasining ismi va familiyasi
+- chip yoki magnit lenta
+- CVV yoki CVC kodi
+- bank nomi va to‘lov tizimi belgisi
+
+Misol: mijoz oylik ish haqini Humo kartasiga oladi, keyin shu karta bilan supermarketda to‘lov qiladi va mobil ilova orqali kommunal xizmatlarni to‘laydi.
+
+2. Kartalar turlari (UzCard, Humo, Visa, Mastercard)
+
+O‘zbekistonda eng ko‘p uchraydigan kartalar mahalliy va xalqaro kartalarga bo‘linadi.
+
+UzCard
+UzCard O‘zbekistondagi milliy to‘lov tizimlaridan biridir. Bu karta asosan mamlakat ichidagi to‘lovlar uchun ishlatiladi. UzCard kartalari orqali:
+- bankomatdan pul yechish
+- savdo nuqtalarida to‘lov qilish
+- terminal orqali to‘lov o‘tkazish
+- mobil ilovada xizmatlar uchun to‘lash
+mumkin.
+
+UzCard kartalari ko‘pincha ish haqi loyihalari uchun beriladi. Mahalliy tarmoqlarda keng qabul qilinadi.
+
+Humo
+Humo ham O‘zbekistondagi milliy to‘lov tizimi hisoblanadi. Humo kartasi funksiyalari UzCard’ga o‘xshash bo‘lib, mamlakat ichidagi to‘lovlar uchun qulay. Humo kartalari ham ish haqi, stipendiya, pensiya va kundalik xarajatlar uchun keng qo‘llanadi.
+
+Ba’zi banklar Humo kartalari uchun qulay mobil ilova xizmatlari, cashback, chegirmalar yoki qo‘shimcha xizmatlar taklif qiladi.
+
+Visa
+Visa xalqaro to‘lov tizimidir. Visa kartalari xorijiy sayohatlarda, xalqaro internet-do‘konlarda, chet el bankomatlarida va chet el POS terminallarida ishlatilishi mumkin. Visa kartalari ko‘pincha quyidagi maqsadlarda ochiladi:
+- chet el sayohati
+- xorijiy saytlar orqali xarid
+- xalqaro obunalar uchun to‘lov
+- xorijdan pul qabul qilish yoki xalqaro hisob-kitoblar
+
+Visa kartalari ba’zan milliy valyutada, ba’zan xorijiy valyutada ochilishi mumkin.
+
+Mastercard
+Mastercard ham xalqaro to‘lov tizimi bo‘lib, Visa’ga o‘xshash imkoniyatlarni beradi. Mastercard yordamida xorijda to‘lov qilish, xalqaro saytlarda xarid qilish, mehmonxona va aviabiletlar uchun to‘lash mumkin.
+
+Visa va Mastercard orasidagi farq bank shartlariga, valyuta konvertatsiyasiga, xizmat narxiga va qaysi savdo nuqtasi qaysi tizimni qabul qilishiga qarab seziladi.
+
+Asosiy farqlar
+- UzCard: mahalliy to‘lovlar uchun
+- Humo: mahalliy to‘lovlar uchun
+- Visa: xalqaro va internet to‘lovlari uchun
+- Mastercard: xalqaro va internet to‘lovlari uchun
+
+Misol: mijoz O‘zbekistonda kundalik xarajatlar uchun Humo kartasidan foydalanadi, chet el saytida kurs sotib olish uchun esa Visa kartasidan foydalanadi.
+
+3. Kartani ishlatish (ATM, POS, online)
+
+ATM orqali ishlatish
+ATM bu bankomat. Karta yordamida bankomat orqali quyidagi amallar bajariladi:
+- naqd pul yechish
+- balansni tekshirish
+- mini-vypiska olish
+- PIN kodni almashtirish
+- ayrim hollarda kommunal to‘lovlarni to‘lash
+
+Bankomatda karta ishlatishda karta chip yoki magnit lenta orqali o‘qiladi. Ko‘p hollarda PIN kod kiritish talab etiladi.
+
+POS terminal orqali ishlatish
+POS terminal do‘kon, dorixona, supermarket, kafe va boshqa savdo nuqtalarida bo‘ladi. Mijoz karta bilan terminalga yaqinlashtirib yoki chip orqali kiritib to‘lov qiladi. Ba’zan kichik summalarda PIN so‘ralmasligi mumkin, lekin ko‘p hollarda PIN talab qilinadi.
+
+Misol: mijoz do‘konda 120 000 so‘mlik xarid qiladi va Humo kartasini terminalga yaqinlashtirib to‘lovni amalga oshiradi.
+
+Online ishlatish
+Online to‘lovlar uchun odatda karta raqami, amal qilish muddati, karta egasi nomi va xavfsizlik kodi kiritiladi. Ba’zi holatlarda SMS-kod yoki mobil ilova orqali tasdiqlash talab qilinadi.
+
+Online to‘lovlarda quyidagilarga e’tibor berish kerak:
+- faqat ishonchli saytlardan foydalanish
+- begona odamlarga karta ma’lumotini bermaslik
+- umumiy kompyuter yoki begona telefon orqali to‘lov qilmaslik
+- SMS xabarnomalarni kuzatib borish
+
+Misol: mijoz mobil operator uchun to‘lovni bank ilovasidagi onlayn xizmat orqali bajaradi.
+
+4. PIN va aktivatsiya
+
+PIN nima
+PIN bu shaxsiy maxfiy raqam bo‘lib, kartadan foydalanish xavfsizligini ta’minlaydi. Odatda u 4 xonali bo‘ladi. PIN kod bankomatda pul yechishda va ko‘plab POS to‘lovlarda talab qilinadi.
+
+PIN bilan ishlash qoidalari
+- PIN kodni hech kimga aytmaslik kerak
+- PIN kodni karta ustiga yozib qo‘ymaslik kerak
+- telefon eslatmalariga ochiq ko‘rinishda saqlamaslik kerak
+- tugmalarni kiritayotganda atrofdagilardan himoyalanish kerak
+
+Karta aktivatsiyasi
+Yangi karta olinganda uni aktivatsiya qilish talab qilinishi mumkin. Aktivatsiya quyidagi usullarda amalga oshiriladi:
+- bank bo‘limida
+- bank mobil ilovasida
+- bankomat orqali
+- call center yordamida
+
+Ba’zi banklarda karta birinchi muvaffaqiyatli PIN operatsiyasidan keyin faollashadi. Ayrim hollarda SMS orqali yoki ilovada tasdiqlash kerak bo‘ladi.
+
+Misol: mijoz yangi UzCard kartasini oldi, bankomatga borib balansni tekshirdi va karta faol holatga o‘tdi.
+
+PIN noto‘g‘ri kiritilganda
+Agar PIN bir necha marta noto‘g‘ri kiritilsa, karta vaqtincha bloklanishi mumkin. Ko‘pincha 3 marotaba xato kiritishdan keyin cheklov qo‘yiladi. Bunday holatda bank bilan bog‘lanish yoki qayta tiklash tartibini bajarish kerak bo‘ladi.
+
+5. Tranzaksiyalar (muvaffaqiyatli va xatoliklar)
+
+Tranzaksiya nima
+Tranzaksiya bu karta orqali bajarilgan har qanday moliyaviy amal. Masalan:
+- to‘lov qilish
+- naqd pul yechish
+- pul o‘tkazish
+- balansni tekshirish
+- onlayn xarid
+
+Muvaffaqiyatli tranzaksiya
+Muvaffaqiyatli tranzaksiyada mablag‘ hisobdan yechiladi yoki kerakli amaliyot bajariladi va tasdiq xabari paydo bo‘ladi. Odatda cheklar, SMS yoki ilovadagi bildirishnoma orqali tasdiqlanadi.
+
+Misol: mijoz terminal orqali 85 000 so‘m to‘lov qildi va telefoniga “to‘lov muvaffaqiyatli” degan xabar keldi.
+
+Xatolik bilan tugagan tranzaksiya
+Ba’zan tranzaksiya amalga oshmaydi. Sabablari:
+- hisobda mablag‘ yetarli emas
+- karta muddati tugagan
+- PIN noto‘g‘ri kiritilgan
+- bank tizimida vaqtinchalik uzilish
+- terminal yoki bankomat nosozligi
+- internet to‘lov uchun cheklov yoqilgan
+- xavfsizlik sababli operatsiya rad etilgan
+
+Ikki marta yechilgan ko‘rinishi
+Ba’zan mijoz hisobidan pul yechilgandek ko‘rinadi, lekin savdo nuqtasiga to‘lov yetib bormagan bo‘ladi. Bu holat ko‘pincha “hold”, “zaxira”, “kutishdagi tranzaksiya” kabi vaqtinchalik blokirovka bo‘lishi mumkin. Agar operatsiya tasdiqlanmasa, summa ma’lum muddatdan keyin qaytadi.
+
+Muvaffaqiyatsiz tranzaksiya bo‘yicha nima qilish kerak
+- SMS yoki ilovadagi tarixni tekshirish
+- savdo nuqtasi chekini saqlash
+- bank call center’ga murojaat qilish
+- zarur bo‘lsa, ariza qoldirish
+- operatsiya vaqti, summasi va joyini aytish
+
+6. Pul yechish va limitlar
+
+Naqd pul yechish
+Kartadan naqd pul bankomat yoki bank kassasi orqali yechib olinadi. Bunda komissiya bo‘lishi yoki bo‘lmasligi bank tarifiga bog‘liq.
+
+Pul yechishda e’tibor beriladigan jihatlar
+- bankomat kartani qabul qiladimi
+- yetarli mablag‘ bormi
+- kunlik yoki oylik limit oshmaganmi
+- komissiya mavjudmi
+
+Limitlar nima
+Limit bu ma’lum vaqt ichida bajarilishi mumkin bo‘lgan maksimal summa yoki operatsiyalar soni. Limitlar xavfsizlik va tartib uchun joriy qilinadi.
+
+Limitlar turlari
+- kunlik naqd pul yechish limiti
+- bir martalik to‘lov limiti
+- onlayn to‘lov limiti
+- pul o‘tkazish limiti
+- oylik tranzaksiya limiti
+
+Misol: mijozning kartasida 10 million so‘m bor, lekin kunlik bankomat limiti 3 million so‘m bo‘lgani uchun bir kunda faqat shu miqdorni yecha oladi.
+
+Limitni o‘zgartirish
+Ba’zi banklarda limitni:
+- mobil ilova orqali
+- bank bo‘limida
+- call center orqali
+o‘zgartirish mumkin. Ayrim hollarda xavfsizlik tekshiruvi talab qilinadi.
+
+Komissiya bilan yechish
+Agar mijoz boshqa bank bankomatidan foydalansa, komissiya olinishi mumkin. Xalqaro kartalarda xorijdagi bankomatlar qo‘shimcha to‘lov ushlashi ham mumkin.
+
+7. Kartani bloklash va yo‘qotish
+
+Kartani qachon bloklash kerak
+Quyidagi holatlarda kartani darhol bloklash kerak:
+- karta yo‘qolsa
+- karta o‘g‘irlansa
+- begona shaxs karta ma’lumotlarini bilib qolsa
+- shubhali tranzaksiyalar kuzatilsa
+- telefon bilan bog‘langan karta nazorati yo‘qolsa
+
+Bloklash usullari
+- bank mobil ilovasida vaqtincha bloklash
+- call center orqali bloklash
+- bank bo‘limiga murojaat qilish
+
+Vaqtincha va doimiy blok
+Vaqtincha bloklash karta topilishi mumkin bo‘lgan vaziyatlarda qulay. Masalan, mijoz kartasini uyda qoldirib ketgan bo‘lsa, uni ilovada vaqtincha bloklashi mumkin. Karta topilgach, qayta faollashtiradi.
+
+Doimiy bloklash esa karta yo‘qolgan, o‘g‘irlangan yoki ma’lumotlari tarqalgan paytda qo‘llanadi. Bu holatda odatda yangi karta chiqariladi.
+
+Karta yo‘qolganda nima qilish kerak
+- kartani darhol bloklash
+- oxirgi tranzaksiyalarni tekshirish
+- bankka shubhali operatsiyalar haqida xabar berish
+- kerak bo‘lsa, qayta karta buyurtma qilish
+- mobil ilovadagi bog‘langan xizmatlarni nazorat qilish
+
+Misol: mijoz taksidan tushgach kartasi yo‘qligini sezdi. U bank ilovasiga kirib kartani blokladi va keyin bankka qo‘ng‘iroq qilib yangi karta rasmiylashtirdi.
+
+8. Firibgarlik va xavfsizlik
+
+Bank kartalari bilan bog‘liq firibgarliklar turli ko‘rinishda bo‘ladi. Mijozlarning e’tiborsizligi firibgarlar uchun imkon yaratadi.
+
+Ko‘p uchraydigan firibgarlik usullari
+- o‘zini bank xodimi deb tanishtirib karta raqami va SMS-kodni so‘rash
+- soxta havola yuborib karta ma’lumotlarini kiritishni talab qilish
+- ijtimoiy tarmoq yoki messenjerda soxta aksiya e’lon qilish
+- bankomatga qurilma o‘rnatib karta ma’lumotini nusxalash
+- telefon orqali “hisobingizdan pul yechilyapti” deb vahimaga solish
+
+Asosiy xavfsizlik qoidalari
+- karta raqami, amal muddati, CVV kod va SMS-kodni begona shaxslarga aytmaslik
+- bank nomidan qo‘ng‘iroq bo‘lsa ham maxfiy ma’lumot bermaslik
+- faqat rasmiy ilova va rasmiy sayt orqali ishlash
+- telefonga kelgan tasdiqlash kodini hech kimga yubormaslik
+- ilova va telefon parolini himoyalash
+- SMS xabarnoma xizmatini yoqib qo‘yish
+- karta yo‘qolsa darhol bloklash
+
+Phishing nima
+Phishing bu soxta sayt yoki xabar orqali foydalanuvchidan karta ma’lumotlarini olish usuli. Sayt tashqi ko‘rinishi haqiqiy bank saytiga o‘xshashi mumkin.
+
+Misol: mijozga “kartangiz bloklanadi, havolaga kiring” degan xabar keldi. U havola orqali karta ma’lumotlarini kiritdi va keyin kartasidan pul yechildi. Bu phishing holatidir.
+
+Qanday himoyalanish kerak
+- havola manzilini diqqat bilan tekshirish
+- noma’lum xabarlardagi linkni ochmaslik
+- rasmiy ilovadan tashqari joyga maxfiy ma’lumot kiritmaslik
+- bank bilan mustaqil ravishda rasmiy raqam orqali bog‘lanish
+
+9. To‘lovlar va komissiyalar
+
+Bank kartasi bilan ishlaganda ayrim xizmatlar bepul, ayrimlari esa pulli bo‘lishi mumkin. Bu bank tariflariga bog‘liq.
+
+Komissiya olinishi mumkin bo‘lgan holatlar
+- boshqa bank bankomatidan naqd pul yechish
+- xalqaro operatsiyalar
+- karta chiqarish yoki qayta chiqarish
+- SMS xabarnoma xizmati
+- karta hisobini yuritish
+- valyuta konvertatsiyasi
+- kartadan kartaga o‘tkazmalar
+
+To‘lovlar turlari
+- karta ochish uchun to‘lov
+- yillik xizmat haqi
+- qayta chiqarish haqi
+- naqdlashtirish komissiyasi
+- transfer komissiyasi
+- balansni boshqa tarmoqda tekshirish uchun to‘lov
+
+Komissiyani oldindan bilish muhim
+Har bir mijoz bank kartasini ishlatishdan oldin tariflar bilan tanishishi kerak. Chunki bir xil operatsiya turli banklarda turlicha narxda bo‘lishi mumkin.
+
+Misol: mijoz o‘z banki bankomatidan naqd pulni bepul yechadi, boshqa bank bankomatidan yechganda esa 1 foiz komissiya to‘laydi.
+
+Xalqaro kartalarda xarajatlar
+Visa va Mastercard kartalarida:
+- valyuta almashtirish kursi
+- xalqaro xizmat haqi
+- xorijiy bank bankomati komissiyasi
+kabi qo‘shimcha xarajatlar bo‘lishi mumkin.
+
+10. Muammolar va yechimlar
+
+Muammo: karta terminalda ishlamayapti
+Yechim:
+- kartani boshqa terminalda sinab ko‘rish
+- chip qismi shikastlanmaganini tekshirish
+- hisobda mablag‘ borligini tekshirish
+- karta bloklanmaganini aniqlash
+- bank bilan bog‘lanish
+
+Muammo: bankomat pul bermadi, lekin hisobdan yechildi
+Yechim:
+- bankomat manzili va vaqtini yozib olish
+- chek bo‘lsa saqlash
+- ilovadagi tranzaksiyani tekshirish
+- bankka murojaat qilish
+- zarur bo‘lsa, da’vo arizasi qoldirish
+
+Muammo: onlayn to‘lov o‘tmayapti
+Yechim:
+- internet to‘lovlar yoqilganini tekshirish
+- karta muddati tugamaganini tekshirish
+- CVV va boshqa ma’lumotlar to‘g‘ri kiritilganini ko‘rish
+- 3D Secure yoki SMS tasdiqlash ishlayotganini tekshirish
+- sayt ishonchli ekanini aniqlash
+
+Muammo: PIN esdan chiqdi
+Yechim:
+- bank ilovasida PIN tiklash funksiyasi bo‘lsa foydalanish
+- bankomat yoki bank bo‘limi orqali qayta sozlash
+- call center orqali tartibni aniqlash
+
+Muammo: karta blok bo‘lib qoldi
+Yechim:
+- blok sababi aniqlanadi
+- vaqtinchalik blok bo‘lsa, ilova yoki bank orqali yechiladi
+- xavfsizlik bo‘yicha blok bo‘lsa, shaxsni tasdiqlash talab qilinadi
+- zarur bo‘lsa, yangi karta ochiladi
+
+Muammo: SMS kelmayapti
+Yechim:
+- telefon raqami bank tizimida to‘g‘ri kiritilganini tekshirish
+- telefon xotirasi yoki tarmoq muammosini ko‘rish
+- SMS xizmati yoqilganini tasdiqlash
+- bank bilan bog‘lanish
+
+Muammo: karta muddati tugagan
+Yechim:
+- qayta karta buyurtma qilish
+- eski kartadagi xizmatlar yangi kartaga ko‘chirilganini tekshirish
+- onlayn obunalarni yangi karta bilan yangilash
+
+11. Call center savol-javoblar (50+ FAQ)
+
+1. Bank karta nima?
+Bank karta bu bank hisobidagi mablag‘lardan foydalanish uchun beriladigan to‘lov vositasidir.
+
+2. Karta bilan nimalar qilish mumkin?
+To‘lov qilish, naqd pul yechish, pul o‘tkazish, onlayn xarid qilish va balansni tekshirish mumkin.
+
+3. UzCard nima uchun ishlatiladi?
+UzCard asosan O‘zbekiston ichidagi to‘lov va naqd pul operatsiyalari uchun ishlatiladi.
+
+4. Humo kartasi qayerda ishlaydi?
+Humo kartasi mamlakat ichidagi bankomat, terminal va ko‘plab xizmatlarda ishlaydi.
+
+5. Visa kartasi nima uchun kerak?
+Visa karta xalqaro to‘lovlar, xorijiy saytlar va chet el safarlari uchun qulay.
+
+6. Mastercard kartasi qayerda ishlatiladi?
+Mastercard xalqaro to‘lov tizimi bo‘lib, xorijda va internetda ishlatiladi.
+
+7. Karta olish uchun nima kerak?
+Odatda pasport yoki ID karta va bank arizasi kerak bo‘ladi.
+
+8. Karta qancha vaqtda tayyor bo‘ladi?
+Bu bankka bog‘liq, ayrim kartalar shu kunning o‘zida, ayrimlari bir necha kunda tayyor bo‘ladi.
+
+9. Karta aktivatsiyasi qanday bo‘ladi?
+Bank ilovasi, bankomat, bo‘lim yoki call center orqali aktivatsiya qilinadi.
+
+10. PIN kodni o‘zim tanlay olamanmi?
+Ba’zi banklarda ha, ba’zilarida PIN avtomatik beriladi yoki keyin almashtiriladi.
+
+11. PIN kodni unutdim, nima qilaman?
+Bank ilovasi, bankomat yoki bank bo‘limi orqali tiklash tartibini bajarish kerak.
+
+12. PIN kodni necha marta xato kiritsa blok bo‘ladi?
+Ko‘pincha 3 marta xato kiritilganda karta bloklanadi.
+
+13. Karta bankomatda qolib ketdi, nima qilish kerak?
+Darhol bank bilan bog‘lanish va zarur bo‘lsa kartani bloklash kerak.
+
+14. Karta yo‘qolsa nima qilaman?
+Darhol bloklang va bankka murojaat qiling.
+
+15. Karta o‘g‘irlangan bo‘lsa nima qilinadi?
+Zudlik bilan bloklash, shubhali tranzaksiyalarni tekshirish va yangi karta ochish kerak.
+
+16. Vaqtincha bloklash nima?
+Bu kartani vaqtincha foydalanishdan to‘xtatib turishdir.
+
+17. Doimiy bloklash qachon kerak bo‘ladi?
+Karta yo‘qolgan, o‘g‘irlangan yoki ma’lumotlari oshkor bo‘lgan paytda.
+
+18. Karta bilan bankomatdan pul yechish pullikmi?
+Bu bank tariflariga bog‘liq. O‘z banki bankomatida bepul bo‘lishi mumkin.
+
+19. Boshqa bank bankomatidan yechsa komissiya bo‘ladimi?
+Ko‘p hollarda ha, komissiya olinadi.
+
+20. Kunlik limit nima?
+Bir kunda yechish yoki to‘lash mumkin bo‘lgan maksimal summa.
+
+21. Limitni oshirish mumkinmi?
+Ba’zi banklarda ilova, bo‘lim yoki call center orqali mumkin.
+
+22. Onlayn to‘lov uchun nima kerak?
+Karta raqami, amal qilish muddati, ba’zan karta egasi nomi va xavfsizlik kodi kerak bo‘ladi.
+
+23. CVV yoki CVC kod nima?
+Bu internet to‘lovlar uchun kerak bo‘ladigan xavfsizlik kodi.
+
+24. CVV kodni kimlargadir aytish mumkinmi?
+Yo‘q, bu maxfiy ma’lumot.
+
+25. SMS-kodni bank xodimiga aytish mumkinmi?
+Yo‘q, hech kimga aytish mumkin emas.
+
+26. Bank xodimi telefon qilib karta raqamini so‘rashi mumkinmi?
+Odatda yo‘q. Maxfiy ma’lumotni telefon orqali aytmaslik kerak.
+
+27. Firibgarni qanday tanish mumkin?
+U shoshiltiradi, maxfiy ma’lumot so‘raydi va qo‘rqitishga urinadi.
+
+28. Shubhali SMS kelsa nima qilish kerak?
+Havolaga kirmaslik va bankning rasmiy raqami orqali aniqlik kiritish kerak.
+
+29. Phishing nima?
+Bu soxta havola yoki sayt orqali karta ma’lumotlarini olish usuli.
+
+30. Karta bilan do‘konda to‘lov qilish xavfsizmi?
+Ha, lekin terminalda summa to‘g‘ri kiritilganini tekshirish kerak.
+
+31. Kontaktsiz to‘lov nima?
+Kartani terminalga yaqinlashtirib to‘lash usuli.
+
+32. Nega terminal to‘lovni rad qilishi mumkin?
+Mablag‘ yetishmasligi, tizim xatosi yoki karta bloklangan bo‘lishi mumkin.
+
+33. Balansni qayerdan bilsam bo‘ladi?
+Bankomat, mobil ilova, SMS yoki call center orqali bilish mumkin.
+
+34. Mini-vypiska nima?
+Bu oxirgi tranzaksiyalar ro‘yxati ko‘rsatilgan qisqa ma’lumot.
+
+35. Karta muddati tugasa nima bo‘ladi?
+Yangi karta rasmiylashtirish kerak bo‘ladi.
+
+36. Muddati tugagan karta bilan pul yechsa bo‘ladimi?
+Odatda yo‘q.
+
+37. Onlayn to‘lov o‘tmayapti, sababi nima bo‘lishi mumkin?
+Internet to‘lov yopiq, ma’lumot xato, mablag‘ yetarli emas yoki sayt muammo bilan ishlayotgan bo‘lishi mumkin.
+
+38. Karta hisobidan pul yechildi, lekin to‘lov bo‘lmadi. Nima qilaman?
+Tranzaksiyani tekshirib, bankka murojaat qilish kerak.
+
+39. Pul qaytishi qancha vaqt oladi?
+Bu bank va to‘lov tizimiga bog‘liq, ayrim hollarda bir necha kun talab qilinadi.
+
+40. Karta raqamini boshqalarga yuborish xavflimi?
+Ha, ayniqsa qo‘shimcha ma’lumotlar bilan birga yuborish xavfli.
+
+41. Karta suratini yuborish mumkinmi?
+Yo‘q, bu xavfsiz emas.
+
+42. Karta bilan xorijda to‘lov qilish uchun nima qilish kerak?
+Karta xalqaro bo‘lishi va xorijiy operatsiyalar uchun faol bo‘lishi kerak.
+
+43. Valyuta kartasi nima?
+Bu xorijiy valyutada yuritiladigan karta hisobidir.
+
+44. Konvertatsiya nima?
+Bir valyutadagi mablag‘ni boshqa valyutaga almashtirish jarayoni.
+
+45. Xorijda bankomatdan pul yechsa bo‘ladimi?
+Agar karta xalqaro bo‘lsa va bankomat shu tizimni qabul qilsa, bo‘ladi.
+
+46. Xalqaro kartalarda komissiya bo‘ladimi?
+Ha, bank va to‘lov tizimi shartlariga qarab bo‘lishi mumkin.
+
+47. SMS xabarnoma xizmati nima beradi?
+Har bir operatsiya haqida tezkor xabar beradi va xavfsizlikni oshiradi.
+
+48. Mobil ilovasiz karta ishlatish mumkinmi?
+Ha, lekin ilova ko‘plab qulaylik va nazorat imkonini beradi.
+
+49. Karta bo‘yicha murojaat uchun qanday ma’lumot kerak bo‘ladi?
+Karta egasi F.I.Sh., pasport ma’lumoti, operatsiya vaqti, summa va joy kerak bo‘lishi mumkin.
+
+50. Call center’ga qachon qo‘ng‘iroq qilish kerak?
+Karta yo‘qolsa, blok bo‘lsa, shubhali tranzaksiya bo‘lsa yoki operatsiya o‘tmasa.
+
+51. Karta boshqa odam nomida bo‘lsa ishlatsa bo‘ladimi?
+Odatda yo‘q, karta shaxsiy foydalanish uchun beriladi.
+
+52. Karta bilan kommunal to‘lov qilsa bo‘ladimi?
+Ha, mobil ilova, terminal yoki boshqa xizmatlar orqali bo‘ladi.
+
+53. Ish haqi kartasi oddiy kartadan farq qiladimi?
+Asosiy farq uning ochilish maqsadi va ayrim bank tariflarida bo‘lishi mumkin.
+
+54. Pensiya kartasi bilan oddiy xarid qilsa bo‘ladimi?
+Ha, agar karta faol bo‘lsa, oddiy to‘lovlar uchun ishlatish mumkin.
+
+55. Karta qayta chiqarish nima?
+Yo‘qolgan, shikastlangan yoki muddati tugagan karta o‘rniga yangisini olish.
+
+56. Karta shikastlangan bo‘lsa nima qilish kerak?
+Bankka murojaat qilib qayta chiqarish kerak bo‘lishi mumkin.
+
+57. Karta nomidagi xato muhimmi?
+Ha, ayniqsa xalqaro kartalarda muhim bo‘lishi mumkin, bank orqali tuzatish kerak.
+
+58. Karta ilovada ko‘rinmayapti, nima qilish kerak?
+Ilovani yangilash, qayta kirish yoki bank bilan bog‘lanish kerak.
+
+59. Karta orqali pul o‘tkazish xavfsizmi?
+Ha, agar rasmiy ilova yoki ishonchli xizmatdan foydalansa xavfsizroq bo‘ladi.
+
+60. Karta bilan bog‘liq eng muhim qoida nima?
+PIN, SMS-kod va CVV kabi maxfiy ma’lumotlarni hech kimga bermaslik.
+
+61. Kichik summalarda PIN so‘ralmasligi normal holatmi?
+Ha, ayrim kontaktsiz to‘lovlarda shunday bo‘lishi mumkin.
+
+62. Karta bilan to‘lovdan oldin nimani tekshirish kerak?
+Hisobda mablag‘ borligi, karta faol holatda ekani va terminaldagi summa to‘g‘ri kiritilganini tekshirish kerak.
+
+63. Nega karta xavfsizlik sabab bloklanadi?
+Shubhali operatsiyalar aniqlansa, bank mijoz mablag‘ini himoya qilish uchun bloklashi mumkin.
+
+64. Yangi karta olganda eski karta avtomatik yopiladimi?
+Ko‘pincha eski karta bloklanadi yoki yopiladi, lekin bu bank tartibiga bog‘liq.
+
+65. Karta bo‘yicha eng to‘g‘ri maslahat nima?
+Rasmiy bank kanallaridan foydalanish, tariflarni bilish va har bir operatsiyani nazorat qilish kerak.
