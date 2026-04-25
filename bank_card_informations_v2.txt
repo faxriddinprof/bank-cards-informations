@@ -1,0 +1,1373 @@
+BANK KARTALARI BO‘YICHA BILIMLAR BAZASI — O‘ZBEKISTON BANK TIZIMI
+SUN’IY INTELLEKT CALL CENTER ASSISTENTI UCHUN MA’LUMOTNOMA
+Versiya: 1.0 | Sana: 2026-yil aprel
+
+
+1-BO‘LIM: BANK KARTALARIGA KIRISH
+
+Bank kartasi bu bank yoki moliyaviy tashkilot tomonidan chiqariladigan jismoniy yoki virtual to‘lov vositasi bo‘lib, karta egasiga o‘z mablag‘laridan foydalanish, xarid qilish, naqd pul yechish va turli moliyaviy operatsiyalarni amalga oshirish imkonini beradi. Bank kartalari bank hisobvarag‘iga bog‘langan bo‘ladi va zamonaviy bank tizimida mijoz bilan uning puli o‘rtasidagi asosiy vosita hisoblanadi.
+
+Bank kartalarida magnit lenta, EMV chipi va tobora ko‘proq kontaktsiz to‘lov antennasi mavjud bo‘ladi. Har bir kartada yagona karta raqami, amal qilish muddati va onlayn operatsiyalar uchun ishlatiladigan xavfsizlik kodi mavjud bo‘ladi.
+
+O‘zbekistonda bank kartalari chakana savdo va raqamli savdo uchun asosiy to‘lov vositasiga aylangan. O‘zbekiston Respublikasi Markaziy banki naqd pulsiz to‘lovlarni faol rag‘batlantirib kelmoqda, buning natijasida UzCard va Humo kabi mahalliy tizimlar, shuningdek Visa va Mastercard kabi xalqaro tizimlar keng qo‘llanmoqda.
+
+Bank kartalarining asosiy vazifalari:
+- Bank hisobida saqlanayotgan mablag‘lardan foydalanish
+- Do‘konlarda to‘lov qilish
+- Bankomatlardan naqd pul yechish
+- Internet orqali tovar va xizmatlar uchun to‘lov qilish
+- Boshqa shaxslarga pul o‘tkazish
+- Ish haqi, pensiya va ijtimoiy to‘lovlarni qabul qilish
+- Mobil bank ilovalari orqali shaxsiy moliyani boshqarish
+
+Bank kartalaridan foydalanish naqd pul olib yurish ehtiyojini kamaytiradi, xarajatlar tarixini ko‘rish imkonini beradi va banklar taqdim etadigan xavfsizlik hamda nizolarni hal qilish mexanizmlari orqali himoya beradi.
+
+O‘zbekistonda 2017-yildan buyon raqamlashtirish, mobil ilovalar rivoji va QR to‘lov infratuzilmasi hisobiga naqd pulsiz to‘lovlar sezilarli darajada oshdi.
+
+
+2-BO‘LIM: BANK KARTALARI TURLARI
+
+2.1 DEBET KARTALAR
+
+Debet karta bevosita mijozning bank hisobiga ulanadi. Debet karta bilan to‘lov amalga oshirilganda, mablag‘ hisobdan darhol yechiladi. Agar overdraft yoqilmagan bo‘lsa, karta egasi faqat hisobida mavjud summani ishlata oladi.
+
+Debet kartalarning asosiy xususiyatlari:
+- Mablag‘ to‘g‘ridan to‘g‘ri bank hisobidan olinadi
+- Qarzdorlik yuzaga kelmaydi, mijoz o‘z pulini ishlatadi
+- Hisobda mablag‘ yetarli bo‘lmasa, karta ishlamaydi
+- Kundalik xaridlar, bankomatdan pul yechish va onlayn to‘lovlar uchun keng qo‘llanadi
+- Bankning oddiy talablariga javob beradigan deyarli har bir mijozga beriladi
+- Kredit kartalarga nisbatan xavfi pastroq, chunki qarz yig‘ilmaydi
+
+O‘zbekistonda debet kartalar eng ko‘p tarqalgan karta turidir. Ish haqi kartalari, pensiya kartalari va stipendiya kartalari asosan debet kartalardir. UzCard va Humo tizimlari asosan milliy to‘lov infratuzilmasida ishlovchi debet kartalardir.
+
+O‘zbekistonda uchraydigan debet kartalar:
+- Ish haqi kartalari
+- Shaxsiy debet kartalar
+- Talabalar kartalari
+- Pensiya va ijtimoiy to‘lov kartalari
+- Ota-ona nazorati ostidagi bolalar kartalari
+
+2.2 KREDIT KARTALAR
+
+Kredit karta karta egasiga bank tomonidan oldindan tasdiqlangan limit doirasida qarz mablag‘ ishlatish imkonini beradi. Olingan qarz belgilangan muddatda, odatda har oy qaytarilishi kerak. To‘liq qaytarilmasa, qolgan summaga foiz hisoblanadi.
+
+Kredit kartalarning asosiy xususiyatlari:
+- Hozir xarid qilish, keyin to‘lash tamoyili
+- Bank mijozning to‘lov qobiliyatiga qarab limit belgilaydi
+- Foizsiz davr odatda 15 kundan 60 kungacha bo‘ladi
+- Foiz foizsiz muddat tugagandan keyin hisoblanadi
+- Jarimadan qochish uchun har oy minimal to‘lov kiritish talab qilinadi
+- Joriy hisobdagi mablag‘dan ko‘proq xarid qilish imkonini beradi
+- To‘g‘ri ishlatilsa, kredit tarixini yaxshilaydi
+
+O‘zbekistonda kredit kartalarini taklif qiladigan banklardan ayrimlari:
+- Kapitalbank
+- Hamkorbank
+- Ipoteka Bank
+- TBC Bank Uzbekistan
+- Anorbank
+
+O‘zbekistondagi kredit karta mahsulotlari ko‘pincha quyidagilarni o‘z ichiga oladi:
+- Foizsiz bo‘lib-bo‘lib to‘lash kartalari
+- Oylik hisobotga asoslangan aylanma kredit kartalari
+- Depozit bilan ta’minlangan kredit kartalari
+
+Kredit karta olish uchun odatda quyidagilar kerak bo‘ladi:
+- Barqaror daromadni tasdiqlovchi hujjat
+- Amaldagi shaxsni tasdiqlovchi hujjat
+- Kamida 18 yosh
+- Kredit byurosidagi ijobiy yoki toza kredit tarixi
+- Rasmiy ish joyi
+
+2.3 VIRTUAL KARTALAR
+
+Virtual karta bu faqat raqamli ko‘rinishda mavjud bo‘lgan, plastik shakli bo‘lmagan to‘lov kartasidir. U jismoniy karta kabi karta raqami, amal muddati va xavfsizlik kodiga ega bo‘ladi, ammo faqat mobil ilova yoki internet bank orqali ko‘rinadi.
+
+Virtual kartalarning asosiy xususiyatlari:
+- Jismoniy shakli yo‘q
+- Asosan onlayn xaridlar va raqamli to‘lovlar uchun mo‘ljallangan
+- Mobil ilova orqali juda tez chiqarilishi mumkin
+- Bir martalik yoki qayta ishlatiladigan bo‘lishi mumkin
+- Xavfsizligi yuqori, ayrim hollarda rekvizitlar yangilanadi
+- Odatda bankomatdan pul yechish uchun ishlatilmaydi
+- Asosiy hisobga yoki alohida kichik hisobga bog‘lanadi
+
+O‘zbekistonda virtual kartalarni taklif qiluvchi ayrim xizmatlar:
+- Payme
+- Click
+- Uzum Bank
+- TBC Bank Uzbekistan
+- Hamkorbank
+
+Virtual kartalar quyidagi holatlarda ayniqsa qulay:
+- Xalqaro internet-do‘konlarda xarid qilish
+- Obuna xizmatlariga to‘lov qilish
+- Asosiy karta ma’lumotlarini himoya qilish
+- Bir martalik xaridlar
+
+2.4 XALQARO KARTALAR: VISA VA MASTERCARD
+
+Xalqaro kartalar butun dunyodagi to‘lov tarmoqlarida ishlaydi. O‘zbekistonda eng ko‘p uchraydigan xalqaro tizimlar Visa va Mastercard hisoblanadi.
+
+Visa:
+- Dunyodagi eng yirik to‘lov tarmoqlaridan biri
+- 200 dan ortiq mamlakat va hududda qabul qilinadi
+- Chet el valyutasida onlayn to‘lovlarni qo‘llab-quvvatlaydi
+- Global bankomat tarmoqlariga kirish imkonini beradi
+- Ruxsatsiz operatsiyalardan himoya dasturlariga ega
+- Visa Classic, Gold, Platinum, Infinite kabi turlari bor
+
+Mastercard:
+- Visa’ning asosiy raqobatchisi
+- 210 dan ortiq mamlakat va hududda ishlaydi
+- Onlayn operatsiyalar uchun qo‘shimcha tasdiqlash mexanizmlariga ega
+- Standard, Gold, Platinum, World, World Elite kabi turlari mavjud
+
+O‘zbekistonda xalqaro kartalar quyidagi holatlar uchun kerak bo‘ladi:
+- Chet elga safar
+- Xorijiy saytlarda xarid
+- Xorijiy valyutadagi operatsiyalar
+- Global bankomatlardan foydalanish
+- Mehmonxona, aviachipta va ijaralar uchun to‘lov
+
+Valyuta konvertatsiyasi:
+Xalqaro kartadan xorijda yoki xorijiy valyutadagi saytda foydalanganda, summa bank kursi bo‘yicha o‘zgartiriladi. Bank rasmiy kurs ustiga qo‘shimcha foiz ham qo‘shishi mumkin.
+
+2.5 OLDINDAN TO‘LDIRILADIGAN KARTALAR
+
+Oldindan to‘ldiriladigan karta avval ma’lum summa bilan to‘ldiriladi va keyin ishlatiladi. U an’anaviy bank hisobiga to‘liq bog‘lanmagan bo‘lishi mumkin.
+
+O‘zbekistonda qo‘llanish holatlari:
+- Sovg‘a kartalari
+- Xodimlar uchun imtiyoz kartalari
+- Safar kartalari
+- Bank hisobi bo‘lmagan shaxslar uchun kartalar
+- Bolalar uchun nazoratli xarajat kartalari
+
+
+3-BO‘LIM: O‘ZBEKISTON KARTA TIZIMI
+
+3.1 UZCARD — MILLIY TO‘LOV TIZIMI
+
+UzCard O‘zbekistonning milliy banklararo to‘lov karta tizimi bo‘lib, 2004-yilda tashkil etilgan. U UzCard protsessing markazi tomonidan boshqariladi va mamlakatdagi eng keng tarqalgan to‘lov tizimidir.
+
+UzCard haqida asosiy ma’lumotlar:
+- Operator: UzCard protsessing markazi
+- Valyuta: faqat so‘m
+- Qamrov: O‘zbekiston ichidagi barcha bankomat va POS terminallar
+- Tarmoq: ichki, chet elda ishlamaydi
+- Asosiy vazifa: ish haqi, pensiya va mahalliy to‘lovlar
+- Karta raqami prefiksi odatda 8600 bilan boshlanadi
+- O‘zbekistondagi yirik banklarning deyarli barchasi UzCard chiqaradi
+
+UzCard infratuzilmasi:
+- Mamlakat bo‘ylab minglab bankomatlar
+- Savdo va xizmat ko‘rsatish sohalarida ko‘plab POS terminallar
+- QR to‘lov tarmog‘i
+- Yirik mobil ilovalar bilan integratsiya
+
+UzCard chiqarish tartibi:
+1. Mijoz pasport bilan bank filialiga boradi
+2. Ariza to‘ldiradi
+3. Bank karta bilan bog‘liq hisob ochadi
+4. Karta darhol yoki bir necha ish kunida beriladi
+5. PIN filialda, bankomatda yoki ilovada o‘rnatiladi
+
+UzCard turlari:
+- UzCard Standard
+- UzCard Gold
+- UzCard Paywave
+- Hamkorlik asosidagi qo‘shma kartalar
+
+UzCard xavfsizlik vositalari:
+- EMV chip
+- PIN tasdiqlash
+- Mobil operatsiyalar uchun tasdiqlash kodlari
+- Qo‘llab-quvvatlangan joylarda 3D Secure
+
+Umumiy komissiyalar:
+- UzCard kartalari o‘rtasidagi o‘tkazmalar uchun bankka qarab komissiya bo‘lishi mumkin
+- O‘z banki bankomatidan yechish ko‘pincha bepul
+- Boshqa bank bankomatidan yechishda komissiya olinishi mumkin
+- POS to‘lovlarda odatda karta egasidan komissiya olinmaydi
+
+UzCard aloqa markazi: 1243
+
+3.2 HUMO — MILLIY TO‘LOV TIZIMI
+
+Humo O‘zbekistonning ikkinchi milliy to‘lov tizimi bo‘lib, 2019-yilda ishga tushirilgan. U raqobatni oshirish va ichki to‘lov ekotizimini yaxshilash maqsadida yaratilgan.
+
+Humo haqida asosiy ma’lumotlar:
+- Operator: Milliy banklararo protsessing markazi
+- Valyuta: faqat so‘m
+- Qamrov: O‘zbekiston ichidagi bankomat va terminallar
+- Ichki tarmoq, chet elda ishlamaydi
+- Karta raqami odatda 9860 bilan boshlanadi
+- Yirik banklarning aksariyati Humo ham chiqaradi
+
+UzCard va Humo farqlari:
+- Ikkalasi ham milliy tizim
+- Humo nisbatan zamonaviy real vaqt infratuzilmasi bilan yo‘lga qo‘yilgan
+- Hamkor banklar tarkibida farqlar bo‘lishi mumkin
+- 2021-yildan boshlab ular ko‘p joylarda o‘zaro ishlaydi
+- Ayrim banklar qo‘shma kartalar ham chiqaradi
+
+Humo turlari:
+- Humo Standard
+- Humo Gold
+- Humo Virtual
+- Humo Paywave
+
+Humo xavfsizlik vositalari:
+- EMV chip
+- PIN tasdiqlash
+- SMS xabarnomalar
+- Firibgarlikni kuzatish tizimi
+
+Humo aloqa markazi: 1209
+
+3.3 O‘ZBEKISTONDA VISA
+
+Visa kartalari O‘zbekistonda turli tijorat banklari tomonidan chiqariladi va global Visa tarmog‘iga kirish imkonini beradi. Ular xalqaro operatsiyalar va xorijiy onlayn xaridlar uchun muhimdir.
+
+Visa chiqaradigan ayrim banklar:
+- Kapitalbank
+- Uzpromstroybank
+- Hamkorbank
+- TBC Bank Uzbekistan
+- Ravnaq Bank
+- Ipoteka Bank
+
+Visa kartalarining asosiy qo‘llanilishi:
+- Xalqaro safarlarda to‘lovlar
+- Amazon, eBay, Booking kabi platformalarda xarid
+- Xorijda bankomatdan pul yechish
+- Chet el valyutasidagi obunalar
+- Xizmat safarlari xarajatlari
+
+Visa olish uchun odatda:
+- Amaldagi pasport
+- So‘m yoki xorijiy valyutadagi hisob
+- Kamida 18 yosh
+- Dastlabki minimal depozit
+
+Yillik xizmat haqi karta turiga va bankka qarab farq qiladi.
+
+3.4 O‘ZBEKISTONDA MASTERCARD
+
+Mastercard ham O‘zbekistonda ayrim tijorat banklari orqali chiqariladi va Visa’ga o‘xshash xalqaro imkoniyatlarni taqdim etadi.
+
+Mastercard chiqaradigan ayrim banklar:
+- Anorbank
+- Uzum Bank
+- TBC Bank Uzbekistan
+- Boshqa ayrim tijorat banklari
+
+Mastercard afzalliklari:
+- Onlayn operatsiyalar uchun qo‘shimcha himoya
+- Global bankomat tarmoqlariga kirish
+- Aksiyalar va premium xizmatlar
+- Ayrim premium kartalarda qo‘shimcha himoya xizmatlari
+
+3.5 O‘ZARO MOSLIK VA QO‘SHMA KARTALAR
+
+2021-yildan boshlab UzCard va Humo tizimlari o‘zaro moslashtirildi. Bu degani, mahalliy kartalar qabul qilinadigan ko‘plab bankomat va terminallarda ikkala tizim kartalari ham ishlaydi.
+
+Ayrim banklar bir kartada ham UzCard yoki Humo, ham Visa yoki Mastercard funksiyasini birlashtirgan qo‘shma kartalarni ham chiqaradi.
+
+
+4-BO‘LIM: KARTA OPERATSIYALARI
+
+4.1 KARTANI FAOLLASHTIRISH
+
+Yangi bank kartasi xavfsizlik sababli odatda nofaol holatda beriladi. Birinchi ishlatishdan oldin uni faollashtirish kerak.
+
+O‘zbekistonda kartani faollashtirish usullari:
+
+1-usul — Bankomat orqali:
+1. Karta chiqarilgan bank bankomatiga kartani kiriting
+2. Berilgan PIN kodni kiriting yoki yangisini o‘rnating
+3. Tizim muvaffaqiyatli kiritilgandan so‘ng kartani faollashtiradi
+4. SMS orqali tasdiq kelishi mumkin
+
+2-usul — Mobil ilova orqali:
+1. Bankning rasmiy ilovasiga kiring
+2. Kartalar bo‘limiga o‘ting
+3. Yangi kartani tanlang
+4. Faollashtirish tugmasini bosing
+5. Tasdiqlash kodini kiriting
+6. Karta darhol faollashadi
+
+3-usul — Bank filialida:
+1. Pasport bilan bankka boring
+2. Xodimdan karta faollashtirishni so‘rang
+3. Shaxsni tasdiqlang
+4. Karta bir necha daqiqada faollashtiriladi
+
+4-usul — Telefon orqali:
+1. Bankning rasmiy aloqa markaziga qo‘ng‘iroq qiling
+2. Xavfsizlik savollariga javob bering
+3. Karta faollashtirishni so‘rang
+4. SMS orqali tasdiq oling
+
+Muhim eslatma: belgilangan muddat ichida faollashtirilmagan kartalar bank siyosatiga ko‘ra o‘chirib qo‘yilishi yoki qaytarilishi mumkin.
+
+4.2 PIN KODDAN FOYDALANISH
+
+PIN bu karta egasini tasdiqlash uchun ishlatiladigan maxfiy 4 yoki 6 xonali koddir.
+
+PIN bo‘yicha qoidalar:
+- PIN’ni hech kimga aytmang
+- Uni karta ustiga yozmang
+- Vaqti-vaqti bilan o‘zgartirib turing
+- Oson topiladigan kombinatsiyalardan foydalanmang
+- Bankomat yoki terminalda kiritayotganda klaviaturani yashiring
+
+Bankomatda PIN kiritish:
+- Kartani kiriting, PIN kiriting, menyuga kiring
+- 3 marta noto‘g‘ri urinish bo‘lsa, karta vaqtincha bloklanishi mumkin
+- Blokni filial yoki ilova orqali yechish mumkin
+
+Terminalda PIN:
+- Kichik kontaktsiz to‘lovlarda PIN talab qilinmasligi mumkin
+- Yirik to‘lovlarda PIN talab qilinadi
+- Ayrim xalqaro kartalarda imzo ham so‘ralishi mumkin
+
+PIN o‘rnatish yoki o‘zgartirish:
+- Bankomat orqali
+- Mobil ilova orqali
+- Filial orqali
+
+PIN unutilganda:
+1. Bank filialiga boring
+2. Shaxsni tasdiqlovchi hujjat olib boring
+3. PIN qayta tiklashni so‘rang
+4. Bank yangilaydi, mijoz yangi PIN o‘rnatadi
+5. Ba’zi hollarda call center orqali yo‘riqnoma beriladi
+
+4.3 BANKOMATDAN PUL YECHISH
+
+Bankomatdan pul yechish karta yordamida naqd pul olish imkonini beradi.
+
+Pul yechish tartibi:
+1. Kartani kiriting
+2. Tilni tanlang
+3. PIN kodni kiriting
+4. Naqd pul yechish bo‘limini tanlang
+5. Summani kiriting
+6. Operatsiyani tasdiqlang
+7. Pulni oling
+8. Kartani oling
+9. Kerak bo‘lsa chekni oling
+
+Maslahatlar:
+- Bankomat rasmiy va xavfsiz joyda ekanini tekshiring
+- Karta joyiga qo‘shimcha qurilma o‘rnatilmaganini ko‘ring
+- Begonalardan yordam olmang
+- Shubhali holat bo‘lsa operatsiyani bekor qiling
+
+Taxminiy limitlar:
+- UzCard va Humo: kuniga odatda 10 milliondan 20 million so‘mgacha
+- Xalqaro kartalar: kunlik limit bank va karta turiga qarab belgilanadi
+- Bir martalik limit ko‘pincha alohida belgilangan bo‘ladi
+
+Ko‘p uchraydigan xatolar:
+- Mablag‘ yetarli emas
+- Karta bloklangan
+- Limit oshib ketgan
+- Bankomatda pul qolmagan
+- Karta turi qo‘llab-quvvatlanmaydi
+- Tizim xatosi
+
+4.4 POS TO‘LOVLAR
+
+POS terminal orqali to‘lov supermarket, restoran, dorixona, kiyim-kechak do‘koni va boshqa savdo nuqtalarida amalga oshiriladi.
+
+Chip va PIN orqali to‘lov:
+1. Xaridor kartani taqdim etadi
+2. Sotuvchi summani kiritadi
+3. Karta terminalga kiritiladi
+4. Xaridor PIN kiritadi
+5. Terminal operatsiyani qayta ishlaydi
+6. Tasdiq ko‘rsatiladi
+7. To‘lov yakunlanadi
+
+Kontaktsiz to‘lov:
+1. Karta o‘quvchi qurilmaga yaqinlashtiriladi
+2. Qurilma signal beradi
+3. Belgilangan limitgacha PIN talab qilinmasligi mumkin
+4. Limitdan oshsa PIN so‘raladi
+5. Operatsiya juda tez yakunlanadi
+
+Telefon orqali NFC to‘lovi:
+- Karta ilovaga qo‘shiladi
+- Telefon terminalga yaqinlashtiriladi
+- Barmoq izi, yuz yoki telefon PIN’i bilan tasdiqlanadi
+- Jismoniy karta bo‘lmasdan to‘lov amalga oshadi
+
+Maslahatlar:
+- To‘lov vaqtida karta ko‘zdan yo‘qolmasin
+- Terminaldagi summani tekshiring
+- Yirik xaridlarda chekni saqlang
+- Terminal shubhali ishlasa operatsiyani to‘xtating
+
+4.5 ONLAYN TO‘LOVLAR
+
+Onlayn to‘lovlar saytlar, ilovalar va raqamli platformalarda karta ma’lumotlari yordamida bajariladi.
+
+Kerak bo‘ladigan ma’lumotlar:
+- Karta raqami
+- Amal qilish muddati
+- CVV yoki CVC kodi
+- Karta egasi ismi
+- Ba’zi hollarda billing manzili
+
+3D Secure tasdiqlash:
+- Bu onlayn to‘lovlar uchun qo‘shimcha xavfsizlik qatlami
+- Karta egasining telefoniga bir martalik kod yuboriladi
+- Kod to‘lov sahifasida kiritiladi
+- Kod noto‘g‘ri kiritilsa yoki muddati o‘tsa, to‘lov rad qilinadi
+- Bu ruxsatsiz to‘lovlarning oldini oladi
+
+O‘zbekistonda keng ishlatiladigan onlayn to‘lov platformalari:
+- Payme
+- Click
+- Uzum Market
+- Uzum Bank ilovasi
+- OLX Uzbekistan
+
+Xavfsizlik bo‘yicha maslahatlar:
+- Faqat himoyalangan saytlarda to‘lov qiling
+- Sotuvchining ishonchliligini tekshiring
+- Onlayn xaridlar uchun virtual kartadan foydalaning
+- SMS yoki elektron pochta orqali kelgan shubhali havolalarda karta ma’lumotlarini kiritmang
+- Operatsiya bildirishnomalarini yoqing
+
+
+5-BO‘LIM: TRANZAKSIYALAR
+
+5.1 MUVAFFAQIYATLI TRANZAKSIYA JARAYONI
+
+Oddiy karta operatsiyasi quyidagi bosqichlardan o‘tadi:
+
+1-bosqich — Avtorizatsiya so‘rovi:
+Savdo terminali yoki onlayn to‘lov shlyuzi karta tizimiga so‘rov yuboradi.
+
+2-bosqich — Tarmoq orqali yo‘naltirish:
+So‘rov karta egasining bankiga yuboriladi.
+
+3-bosqich — Bank tekshiruvi:
+Bank quyidagilarni tekshiradi:
+- Karta amal qiladimi
+- Hisobda mablag‘ yetarlimi
+- Kredit limiti yetarlimi
+- Limitlar oshmaganmi
+- Firibgarlik belgilari bormi
+
+4-bosqich — Javob:
+Bank tasdiq yoki rad javobini qaytaradi.
+
+5-bosqich — Hisob-kitob:
+Kun oxirida operatsiyalar yakuniy hisob-kitobga yuboriladi va mablag‘ savdogar hisobiga o‘tkaziladi.
+
+6-bosqich — Hisobot:
+Operatsiya karta egasining tarixida aks etadi va mobil ilovaga xabar yuborilishi mumkin.
+
+5.2 TRANZAKSIYA MUVAFFAQIYATSIZ BO‘LISH SABABLARI
+
+Tranzaksiya turli bosqichlarda rad etilishi mumkin. Eng ko‘p uchraydigan sabablari:
+- Mablag‘ yetarli emas
+- Karta bloklangan yoki muzlatilgan
+- Karta muddati tugagan
+- Limitdan oshib ketilgan
+- Onlayn to‘lovda karta ma’lumotlari noto‘g‘ri kiritilgan
+- 3D Secure kodi noto‘g‘ri yoki muddati o‘tgan
+- Tarmoq yoki tizim xatosi
+- Karta onlayn yoki xalqaro to‘lovlarga ochilmagan
+- Savdogar ayrim karta turini qabul qilmaydi
+- Bank xavfsizlik tizimi operatsiyani shubhali deb topgan
+
+5.3 KUTILAYOTGAN TRANZAKSIYALAR
+
+Kutilayotgan tranzaksiya tasdiqlangan, lekin hali yakuniy hisob-kitobga tushmagan operatsiyadir. Summa mavjud balansdan vaqtincha ushlab turiladi.
+
+Bunday holatlar:
+- Savdogar hali yakuniy tasdiq yubormagan
+- Qaytarim jarayoni boshlangan, ammo yakunlanmagan
+- Onlayn to‘lov tasdiqlanishini kutmoqda
+- Oldindan blokirovka qo‘yilgan
+
+Davomiyligi:
+- Odatda 1 kundan 5 ish kunigacha
+- Agar tranzaksiya yakunlanmasa, blokirovka bekor qilinadi va summa qaytadi
+
+Oldindan avtorizatsiya misollari:
+- Mehmonxona bronida vaqtinchalik ushlab turish
+- Avtomobil ijarasida depozit blokirovkasi
+
+5.4 QAYTARIM JARAYONI
+
+Qaytarim oldin to‘langan mablag‘ni yana karta egasi hisobiga qaytarishdir.
+
+Qaytarim bo‘ladigan holatlar:
+- Tovar qaytarilgan
+- Operatsiya xato bo‘lgan
+- Xizmat ko‘rsatilmagan
+- Bir xil summa ikki marta yechilgan
+
+Standart jarayon:
+1. Mijoz savdogardan qaytarim so‘raydi
+2. Savdogar qaytarim operatsiyasini boshlaydi
+3. Operatsiya karta tarmog‘i orqali qayta ishlanadi
+4. Emitent bank qaytarim ma’lumotini qabul qiladi
+5. Mablag‘ mijoz hisobiga tushadi
+
+Muddatlar:
+- UzCard va Humo uchun odatda 1 dan 5 ish kunigacha
+- Visa va Mastercard uchun 5 dan 10 ish kunigacha yoki undan ko‘proq
+- Onlayn qaytarim ba’zan 14 ish kunigacha cho‘zilishi mumkin
+
+Muhim eslatmalar:
+- Qaytarim odatda aynan o‘sha kartaga yoki unga bog‘langan hisobga tushadi
+- Karta yopilgan bo‘lsa ham, summa hisobga o‘tishi mumkin
+- Savdogarlar odatda naqd emas, karta qaytarimi ko‘rinishida qaytaradi
+- Ba’zan do‘kon bonus yoki ichki balans taklif qilishi mumkin
+
+Nizoli tranzaksiya:
+Agar mijoz operatsiyani noto‘g‘ri, ruxsatsiz yoki firibgarlik deb hisoblasa:
+1. Darhol bankka murojaat qiladi
+2. Sana, summa va savdogar ma’lumotlarini beradi
+3. Bank tekshiruv ochadi
+4. Ba’zan vaqtinchalik kredit berilishi mumkin
+5. Tekshiruv bir necha ish kuni yoki ko‘proq davom etadi
+6. Qarorga ko‘ra summa qaytariladi yoki bekor qilinadi
+
+
+6-BO‘LIM: XAVFSIZLIK
+
+6.1 FIRIBGARLIK TURLARI
+
+PHISHING:
+Phishing bu firibgarlar bank yoki to‘lov xizmati nomidan soxta xabar, elektron pochta yoki sayt yuborib, mijozdan karta ma’lumotlari, PIN, tasdiqlash kodi yoki parollarni olishga urinishidir.
+
+Phishing qanday ishlaydi:
+- Soxta xabar yuboriladi
+- Shoshilinch holat yaratiladi
+- Soxta havola beriladi
+- Mijoz ma’lumotlarni kiritadi
+- Firibgar ma’lumotlarni o‘g‘irlaydi
+
+Phishing belgilar:
+- PIN, SMS-kod yoki to‘liq karta ma’lumotlarini so‘rashi
+- Noto‘g‘ri yozilgan manzil yoki sayt
+- Matnda xatolar ko‘pligi
+- Tezda harakat qilishga majbur qilishi
+
+SKIMMING:
+Skimming bu bankomat yoki terminalga qurilma o‘rnatib, magnit lentadagi ma’lumotlarni nusxalash usuli.
+
+Qanday aniqlash mumkin:
+- Karta kiradigan joyni tekshiring
+- Qo‘shimcha qismlar bor-yo‘qligini ko‘ring
+- Klaviatura ustida kamera yoki yopishtirma yo‘qligiga e’tibor bering
+- Shubhali bankomat haqida bankka xabar bering
+
+SIM ALMASHTIRISH FIRIBGARLIGI:
+Firibgar mobil operatorni aldab, mijoz raqamini yangi SIM kartaga ko‘chiradi va tasdiqlash kodlarini qabul qiladi.
+
+Belgilari:
+- Birdan aloqa yo‘qoladi
+- Qo‘ng‘iroq va SMS ishlamay qoladi
+- Mobil ilovada shubhali faollik paydo bo‘ladi
+
+Himoya:
+- Aloqa to‘satdan yo‘qolsa operator bilan darhol bog‘laning
+- SIM hisobingizga qo‘shimcha himoya qo‘ying
+- Iloji bo‘lsa, ilova asosidagi tasdiqlashdan foydalaning
+
+KARTA MA’LUMOTLARINI O‘G‘IRLASH:
+O‘g‘irlangan karta ma’lumotlaridan jismoniy karta bo‘lmasdan onlayn xarid qilish uchun foydalaniladi.
+
+ALOQANI USHLAB QOLISH HUJUMI:
+Himoyasiz umumiy internet tarmoqlarida foydalanuvchi va bank o‘rtasidagi ma’lumotlar ushlab qolinishi mumkin.
+
+QALBAKI KARTALAR:
+O‘g‘irlangan ma’lumotlar asosida qalbaki plastik kartalar tayyorlanishi mumkin. Chipli kartalar buni kamaytiradi, lekin magnit lenta operatsiyalari hanuz xavfli bo‘lishi mumkin.
+
+6.2 FIRIBGARLIKNI ANIQLASH
+
+Hisobni kuzatish:
+- Har bir operatsiya uchun SMS va push xabarnomalarni yoqing
+- Hisob tarixini muntazam tekshiring
+- Har bir operatsiyadan keyin bildirishnomalarni ko‘rib chiqing
+- Begona tranzaksiyalar bo‘lsa darhol xabar bering
+
+Firibgarlik belgilari:
+- Tanish bo‘lmagan operatsiyalar
+- Juda kichik sinov summalari
+- Siz qilmagan xorijiy operatsiyalar
+- Kutilmagan balans kamayishi
+- O‘zingiz so‘ramagan tasdiqlash kodlari
+- Mobil ilovaga kira olmay qolish
+
+6.3 FIRIBGARLIK YUZ BERGANDA NIMA QILISH KERAK
+
+Zudlik bilan bajariladigan ishlar:
+1. Kartani darhol bloklang
+2. Bankning 24/7 aloqa markaziga qo‘ng‘iroq qiling
+3. Mobil banking paroli va PIN’ni almashtiring
+4. Ruxsatsiz operatsiyalar haqida xabar bering
+5. SIM almashgan bo‘lishi mumkin bo‘lsa operatorga murojaat qiling
+6. Har bir operatsiya bo‘yicha shikoyat qoldiring
+7. Katta zarar bo‘lsa, huquqni muhofaza qiluvchi organlarga murojaat qiling
+
+Bankka beriladigan ma’lumotlar:
+- To‘liq ism-sharif
+- Hisob yoki karta ma’lumoti
+- Noto‘g‘ri operatsiyalar tafsiloti
+- Firibgarlikni qachon sezganingiz
+- Kelgan shubhali xabarlar yoki qo‘ng‘iroqlar
+
+Nizoga e’tiroz bildirish huquqi:
+- Mijoz ruxsatsiz operatsiyalarga e’tiroz bildira oladi
+- Visa va Mastercard himoya qoidalariga ega
+- E’tiroz odatda belgilangan muddat ichida berilishi kerak
+- Firibgarlik tasdiqlansa, summa qaytariladi
+
+6.4 KARTANI BLOKLASH TARTIBLARI
+
+Mobil ilova orqali bloklash:
+1. Rasmiy ilovani oching
+2. Kartalar bo‘limiga o‘ting
+3. Bloklanadigan kartani tanlang
+4. Bloklash tugmasini bosing
+5. Sababini tanlang
+6. Tasdiqlashni yakunlang
+7. Karta darhol bloklanadi
+
+Bankomat orqali bloklash:
+1. Kartani bankomatga kiriting
+2. Karta boshqaruvi bo‘limini tanlang
+3. Bloklashni tanlang
+4. PIN bilan tasdiqlang
+
+Call center orqali bloklash:
+1. Aloqa markaziga qo‘ng‘iroq qiling
+2. Shaxsni tasdiqlang
+3. Kartani bloklashni so‘rang
+4. Bank zudlik bilan bloklaydi
+
+Filial orqali bloklash:
+1. Filialga boring
+2. Ariza to‘ldiring
+3. Karta tizimda bloklanadi
+
+Vaqtincha va doimiy blok o‘rtasidagi farq:
+- Vaqtincha blok: keyin ochish mumkin
+- Doimiy blok: karta butunlay yopiladi, yangisi kerak bo‘ladi
+
+Vaqtincha bloklangan kartani ochish:
+- Ilova orqali
+- Call center orqali
+- Filial orqali
+
+Doimiy blokdan keyin:
+- Yangi karta qayta chiqariladi
+- Yangi karta raqami berilishi mumkin
+- Saqlangan to‘lov ma’lumotlarini yangilash kerak bo‘ladi
+
+
+7-BO‘LIM: LIMITLAR VA KOMISSIYALAR
+
+7.1 KUNLIK PUL YECHISH LIMITLARI
+
+UzCard va Humo kartalari uchun kunlik bankomat limitlari bank va karta turiga qarab farq qiladi. Odatda standart kartalarda pastroq, gold va premium kartalarda yuqoriroq limit bo‘ladi.
+
+Xalqaro kartalarda ham kunlik naqd pul yechish limiti karta toifasiga qarab belgilanadi.
+
+Ayrim bankomatlarda bir sessiya uchun alohida limit bo‘ladi. Kundalik limitga yetish uchun bir necha marta operatsiya qilishga to‘g‘ri kelishi mumkin.
+
+7.2 ONLAYN TO‘LOV LIMITLARI
+
+Mahalliy kartalar uchun onlayn to‘lov limitlari va xalqaro kartalar uchun xorijiy onlayn to‘lov limitlari bankka bog‘liq holda o‘rnatiladi.
+
+Kartadan kartaga o‘tkazmalar uchun ham kunlik limit mavjud bo‘lishi mumkin.
+
+Kontaktsiz to‘lovlarda ma’lum summagacha PIN talab qilinmaydi, undan yuqorida esa PIN so‘raladi.
+
+7.3 BANK TO‘LOVLARI VA KOMISSIYALAR
+
+Karta chiqarish haqi:
+- UzCard va Humo standart kartalari ba’zi banklarda bepul, ba’zilarida pulli bo‘lishi mumkin
+- Visa va Mastercard kartalari uchun odatda alohida chiqarish haqi bo‘ladi
+- Premium kartalarda to‘lov ko‘proq bo‘ladi
+
+Yillik xizmat haqi:
+- Karta turi va bankka qarab o‘zgaradi
+- Ish haqi loyihasi kartalarida ba’zan xizmat haqi olinmaydi
+
+Bankomatdan pul yechish:
+- O‘z banki bankomatida ko‘pincha bepul
+- Boshqa bank bankomatida komissiya bo‘lishi mumkin
+- Xorijdagi bankomatlarda foiz va qat’iy yig‘im bo‘lishi mumkin
+
+POS to‘lovlar:
+- Odatda karta egasi uchun bepul
+- Komissiyani savdogar yoki uning banki to‘laydi
+
+Onlayn to‘lovlar:
+- Mahalliy onlayn to‘lovlar ko‘pincha bepul
+- Xalqaro operatsiyalarda konvertatsiya bo‘yicha qo‘shimcha xarajat bo‘lishi mumkin
+
+Valyuta almashtirish haqi:
+- Karta valyutasidan boshqa valyutada to‘lov qilinganda qo‘llaniladi
+- Bank kursi ustiga qo‘shimcha foiz qo‘shilishi mumkin
+
+Overdraft bo‘lsa:
+- Foydalanilgan qarz summasiga foiz hisoblanadi
+- Faollashtirish yoki xizmat haqi bo‘lishi mumkin
+
+Ko‘chirma va qayta chiqarish:
+- Qog‘oz ko‘chirma uchun ayrim banklar haq oladi
+- Elektron ko‘chirma ko‘pincha bepul
+- Karta qayta chiqarish uchun standart yoki tezkor tariflar bo‘lishi mumkin
+
+
+8-BO‘LIM: MUAMMOLAR VA YECHIMLAR
+
+1-MUAMMO: KARTA BANKOMATDA ISHLAMAYAPTI
+
+Tavsif: mijoz kartani bankomatga kiritadi, lekin operatsiya o‘tmaydi yoki karta qabul qilinmaydi.
+
+Ehtimoliy sabablar:
+- Karta bloklangan
+- Karta muddati tugagan
+- Karta shikastlangan
+- Bankomat karta tarmog‘ini qo‘llamaydi
+- Bankomatda texnik nosozlik bor
+- Karta magnit xususiyatini yo‘qotgan
+- Kunlik limit tugagan
+- Hisobda mablag‘ yetarli emas
+
+Yechimlar:
+- Ilovada karta holatini tekshiring
+- Zarur bo‘lsa bankka murojaat qiling
+- Boshqa bankomatni sinab ko‘ring
+- Muddati tugagan bo‘lsa yangilang
+- Mablag‘ni tekshiring
+
+2-MUAMMO: PUL YECHILDI, LEKIN TO‘LOV O‘TMADI
+
+Tavsif: terminalda yoki onlayn to‘lovda summa ushlab qolingan, lekin savdogar to‘lovni qabul qilmagan.
+
+Sabablar:
+- Tarmoq uzilishi
+- Kutilayotgan avtorizatsiya
+- Ikki martalik tranzaksiya
+- Tasdiqlash muddati o‘tgan
+- Qaytarim kechikmoqda
+
+Yechimlar:
+- Tarixda operatsiya holatini tekshiring
+- Kutilayotgan bo‘lsa bir necha kun kuting
+- Bankka murojaat qiling
+- Savdogar bilan bog‘laning
+- Chek va skrinshotlarni saqlang
+
+3-MUAMMO: PIN UNUTILGAN
+
+Yechimlar:
+1. Ishonchingiz bo‘lmasa, qayta-qayta urinish qilmang
+2. Pasport bilan filialga boring
+3. PIN qayta tiklashni so‘rang
+4. Yangi PIN o‘rnating
+5. Zarur bo‘lsa call center bilan bog‘laning
+
+4-MUAMMO: KARTA YO‘QOLGAN YOKI O‘G‘IRLANGAN
+
+Zudlik bilan:
+1. Kartani bloklang
+2. So‘nggi tranzaksiyalarni tekshiring
+3. Ruxsatsiz operatsiyalarni bankka bildiring
+4. Kerak bo‘lsa ichki ishlar organlariga murojaat qiling
+5. Yangi karta so‘rang
+6. Saqlangan to‘lov ma’lumotlarini yangilang
+
+5-MUAMMO: KARTA NOMA’LUM SABAB BILAN BLOKLANGAN
+
+Sabablar:
+- Xavfsizlik tizimi shubhali operatsiyani aniqlagan
+- Karta muddati tugagan
+- Hisob yuridik yoki nazorat sababiga ko‘ra cheklangan
+- Kimdir PIN’ni noto‘g‘ri kiritgan
+- Bank mijozdan tasdiq kutgan
+
+Yechimlar:
+- Bankdan sababini so‘rang
+- Muddati tugaganini tekshiring
+- Zarur bo‘lsa PIN’ni almashtiring
+- Hisob bo‘yicha qo‘shimcha tushuntirish bering
+
+6-MUAMMO: BALANS YETARLI, LEKIN ONLAYN TO‘LOV RAD ETILDI
+
+Sabablar:
+- Onlayn to‘lov yoqilmagan
+- 3D Secure ishlamagan
+- Ma’lumot noto‘g‘ri kiritilgan
+- Limit tugagan
+- Savdogar sizning karta turini qabul qilmaydi
+- Qurilma yoki brauzer muammosi bor
+
+Yechimlar:
+- Ilovada onlayn to‘lovni yoqing
+- Telefon raqami faol ekanini tekshiring
+- Ma’lumotlarni qayta tekshiring
+- Limitni tekshiring
+- Boshqa brauzer yoki qurilmani sinab ko‘ring
+
+7-MUAMMO: TRANZAKSIYA TARIXDA KO‘RINMAYAPTI
+
+Sabablar:
+- Operatsiya hali kutilmoqda
+- Yakuniy hisob-kitob kechikmoqda
+- Ilovadagi sana filtri noto‘g‘ri
+- Operatsiya rad etilgan
+
+Yechimlar:
+- Kutilayotgan operatsiyalar bo‘limini tekshiring
+- 2 yoki 3 ish kun kuting
+- Sana filtrini to‘g‘rilang
+- Balansdan pul yechilganini tekshiring
+
+8-MUAMMO: KARTA MUDDATI TUGAMOQDA YOKI TUGAGAN
+
+Ma’lumotlar:
+- Kartalar odatda 2 yildan 5 yilgacha amal qiladi
+- Amal muddati kartaning old tomonida ko‘rsatiladi
+- U ko‘rsatilgan oyning oxirigacha amal qiladi
+
+Yangilash tartibi:
+1. Bank odatda oldindan xabar beradi
+2. Mijoz yangi karta uchun murojaat qiladi
+3. Yangi karta beriladi
+4. Eski karta yangi karta faollashgach yo‘q qilinadi
+5. Saqlangan to‘lovlar yangilanadi
+
+Ba’zi banklarda avtomatik qayta chiqarish ham bo‘lishi mumkin.
+
+9-MUAMMO: SMS XABARNOMA KELMAYAPTI
+
+Sabablar:
+- Telefon raqami o‘zgargan
+- Mobil operator muammosi bor
+- SMS xizmati o‘chirilgan
+- Hisobda xizmat uchun mablag‘ yo‘q
+
+Yechimlar:
+- Bankda raqamni yangilang
+- Operator bilan bog‘laning
+- Ilovada xabarnomani yoqing
+- Hisobni to‘ldiring
+
+10-MUAMMO: NOTO‘G‘RI SUMMA YOKI NOTO‘G‘RI KARTA RAQAMIGA O‘TKAZMA
+
+Yechimlar:
+1. Darhol bankka qo‘ng‘iroq qiling
+2. Operatsiya tafsilotlarini bering
+3. Bank imkon bo‘lsa o‘tkazmani qaytarishga harakat qiladi
+4. Qabul qiluvchi bank bilan bog‘lanilishi mumkin
+5. Ayrim hollarda yozma murojaat yoki huquqiy choralar kerak bo‘ladi
+
+Eslatma: bank noto‘g‘ri yuborilgan pulni qaytarib berishni kafolatlamaydi. Karta raqamini tasdiqlashdan oldin diqqat bilan tekshirish kerak.
+
+
+9-BO‘LIM: MIJOZLARGA JAVOB NAMUNALARI
+
+1-VAZIYAT: MEN KARTAMNI YO‘QOTDIM
+
+Mijoz: Men kartamni yo‘qotib qo‘ydim. Nima qilay?
+
+Tavsiya etilgan javob:
+Sizni tushunaman. Avvalo hisobingiz xavfsizligini ta’minlaymiz.
+Iltimos, shaxsingizni tasdiqlash uchun to‘liq ism-sharifingiz va pasport ma’lumotingizni ayting.
+Tasdiqlangandan keyin kartangizga vaqtincha blok qo‘yaman.
+[XXXX] bilan tugaydigan kartangiz muvaffaqiyatli bloklandi. Endi undan foydalanib bo‘lmaydi.
+Mobil ilovadagi so‘nggi operatsiyalarni tekshirib chiqing. Agar begona operatsiya bo‘lsa, darhol xabar bering.
+Agar kartani keyin topsangiz, ilova yoki qo‘ng‘iroq orqali qayta ochishingiz mumkin. Yangi karta kerak bo‘lsa, pasport bilan filialga murojaat qilasiz.
+
+2-VAZIYAT: TRANZAKSIYAM O‘TMADI
+
+Mijoz: Do‘konda to‘lay olmadim, lekin hisobimda pul bor.
+
+Tavsiya etilgan javob:
+Keling, sababini aniqlaymiz. Iltimos, to‘liq ism-sharifingiz va karta oxirgi 4 raqamini ayting.
+Sabablar quyidagicha bo‘lishi mumkin:
+1. PIN bir necha marta noto‘g‘ri kiritilgan
+2. Terminal karta turini qabul qilmayapti
+3. Kunlik limit tugagan
+4. Vaqtinchalik tarmoq uzilishi bo‘lgan
+Agar karta bloklangan bo‘lsa, uni ilova orqali yoki biz orqali ochish mumkin. Agar limit tugagan bo‘lsa, yarim tunda yangilanadi. Boshqa sabab bo‘lmasa, muammo terminal tomonda bo‘lishi mumkin.
+
+3-VAZIYAT: LIMITNI OSHIRMOQCHIMAN
+
+Mijoz: Kartamdagi kunlik limitni oshirmoqchiman.
+
+Tavsiya etilgan javob:
+Albatta. Avval shaxsingizni tasdiqlashim kerak. Iltimos, ism-sharif, pasport ma’lumoti va ro‘yxatdan o‘tgan telefon raqamingizni ayting.
+Sizning joriy bankomat limiti [X] va to‘lov limiti [X]. Qaysi limitni va qancha miqdorgacha oshirmoqchisiz?
+So‘rov bank siyosatiga qarab darhol yoki ko‘rib chiqilgandan keyin tasdiqlanishi mumkin.
+
+4-VAZIYAT: HISOBIMDA FIRIBGARLIK BO‘LGAN KO‘RINADI
+
+Mijoz: Hisobimda men qilmagan operatsiya bor.
+
+Tavsiya etilgan javob:
+Bu jiddiy holat. Sizga darhol yordam beraman. Avval shaxsingizni tasdiqlang.
+Men hozir kartangizni bloklayman, operatsiyani nizoli deb belgilayman va tekshiruv ochaman.
+Shuningdek, mobil banking parolingizni almashtiring va boshqa shubhali operatsiyalarni tekshiring. Agar SIM kartangiz bo‘yicha gumon bo‘lsa, operatorga ham murojaat qiling.
+
+5-VAZIYAT: PUL YECHILDI, LEKIN TO‘LOV BO‘LMADI
+
+Mijoz: Onlayn to‘lov qildim, lekin buyurtma bo‘lmadi, pul esa yechildi.
+
+Tavsiya etilgan javob:
+Iltimos, karta ma’lumoti, sana, vaqt va summani ayting.
+Ko‘p hollarda bunday summa vaqtincha ushlab turilgan bo‘ladi va 3 dan 7 ish kunigacha qaytadi. Agar savdogar to‘lov o‘tganini aytsa, undan qaytarim talab qiling. 14 ish kuni ichida qaytmasa, bizga qayta murojaat qiling.
+
+6-VAZIYAT: PIN’IMNI UNUTDIM
+
+Mijoz: PIN’ni eslay olmayapman, aytib bera olasizmi?
+
+Tavsiya etilgan javob:
+Xavfsizlik sababli bank xodimlari PIN’ni ko‘ra olmaydi va ayta olmaydi. Ammo uni qayta o‘rnatishga yordam bera olaman.
+Iltimos, ishonchingiz bo‘lmasa, bankomatda PIN’ni taxmin qilib kiritmang. Uch marta xato urinish karta bloklanishiga olib kelishi mumkin.
+PIN’ni filial orqali yoki mobil ilovadagi mos xizmat orqali o‘zgartirish mumkin.
+
+
+10-BO‘LIM: TEZ-TEZ SO‘RALADIGAN SAVOLLAR
+
+UMUMIY SAVOLLAR
+
+1. Bank karta nima?
+Javob: Bank karta bu mablag‘dan foydalanish, to‘lov qilish, bankomatdan pul yechish va onlayn operatsiyalar uchun bank tomonidan beriladigan vositadir.
+
+2. Debet va kredit karta o‘rtasidagi farq nima?
+Javob: Debet karta o‘z pulingizni ishlatadi, kredit karta esa bankning qarz mablag‘ini limit doirasida ishlatishga imkon beradi.
+
+3. UzCard nima?
+Javob: UzCard O‘zbekistonning milliy to‘lov tizimi bo‘lib, asosan mamlakat ichida ishlaydi.
+
+4. Humo nima?
+Javob: Humo O‘zbekistonning ikkinchi milliy to‘lov tizimi bo‘lib, mamlakat bo‘ylab keng qabul qilinadi.
+
+5. UzCard yoki Humo kartasini chet elda ishlatsa bo‘ladimi?
+Javob: Yo‘q, ular asosan ichki to‘lovlar uchun mo‘ljallangan.
+
+6. O‘zbekistonda bank kartasini qanday olish mumkin?
+Javob: Tijorat banki filialiga pasport bilan borib ariza topshirish kerak.
+
+7. CVV yoki CVC kodi nima?
+Javob: Bu karta orqasida joylashgan xavfsizlik kodi bo‘lib, onlayn to‘lovlar uchun ishlatiladi.
+
+8. Virtual karta nima?
+Javob: Bu plastik shakli bo‘lmagan, faqat ilovada mavjud karta bo‘lib, asosan onlayn xaridlar uchun qulay.
+
+9. Kontaktsiz to‘lov nima?
+Javob: Kartani terminalga yaqinlashtirib to‘lash usuli.
+
+10. NFC to‘lovi nima?
+Javob: Bu telefon yoki kartani yaqin masofadan terminal bilan bog‘lab to‘lov qilish texnologiyasi.
+
+PIN VA XAVFSIZLIK SAVOLLARI
+
+11. Noto‘g‘ri PIN necha marta kiritilsa karta bloklanadi?
+Javob: Odatda 3 marta noto‘g‘ri kiritilganda.
+
+12. PIN’ni qanday o‘zgartiraman?
+Javob: Bankomat, mobil ilova yoki filial orqali.
+
+13. Bank xodimi menga PIN’ni ayta oladimi?
+Javob: Yo‘q.
+
+14. Kimdir PIN’ni bilib qolgan deb gumon qilsam nima qilaman?
+Javob: Darhol PIN’ni almashtiring va tranzaksiyalarni tekshiring.
+
+15. 3D Secure nima?
+Javob: Onlayn to‘lovlarda qo‘shimcha tasdiqlash kodi orqali himoya beradigan tizim.
+
+16. Kartani firibgarlikdan qanday himoya qilaman?
+Javob: Maxfiy ma’lumotlarni bermang, xabarnomalarni yoqing, xavfsiz joylardan foydalaning.
+
+17. Skimming nima?
+Javob: Bankomat yoki terminalga o‘rnatilgan qurilma orqali karta ma’lumotlarini o‘g‘irlash usuli.
+
+18. Phishing nima?
+Javob: Soxta xabar yoki sayt orqali karta ma’lumotlarini olishga urinish.
+
+19. SIM almashish hujumi nima?
+Javob: Firibgar sizning telefon raqamingizni o‘z SIM’iga ko‘chirib olib, kodlarni qabul qiladi.
+
+20. Ochiq Wi‑Fi’da kartadan foydalanish xavfsizmi?
+Javob: Tavsiya etilmaydi.
+
+BANKOMAT BO‘YICHA SAVOLLAR
+
+21. Bir kunda bankomatdan qancha yechish mumkin?
+Javob: Bu bank va karta turiga bog‘liq.
+
+22. Kartamni bankomat yutib yubordi. Nima qilaman?
+Javob: Bankomat manzili va raqamini yozib oling va darhol bankka murojaat qiling.
+
+23. Bankomat kamroq pul berdi. Nima qilaman?
+Javob: Joyni tark etmang, tafsilotlarni yozib oling va bankka xabar bering.
+
+24. UzCard bilan istalgan bankomatdan foydalana olamanmi?
+Javob: Tizim qo‘llab-quvvatlasa, ha.
+
+25. Chekdagi summa boshqa chiqdi. Nima qilaman?
+Javob: Chek bilan bankka murojaat qiling.
+
+ONLAYN TO‘LOV SAVOLLARI
+
+26. Onlayn to‘lovni qanday yoqaman?
+Javob: Mobil ilovadagi karta sozlamalarida yoqiladi yoki bank orqali.
+
+27. Tasdiqlash kodi kelmayapti. Nima qilaman?
+Javob: Telefon raqamingiz bankda to‘g‘ri ekanini va tarmoq ishlayotganini tekshiring.
+
+28. Saytlarda karta ma’lumotini saqlash xavfsizmi?
+Javob: Faqat ishonchli va himoyalangan saytlarda ehtiyotkorlik bilan.
+
+29. To‘lov shlyuzi nima?
+Javob: Onlayn to‘lovlar vaqtida karta ma’lumotlarini xavfsiz uzatuvchi texnologiya.
+
+30. Payme yoki Click’dan kartasiz foydalansa bo‘ladimi?
+Javob: Odatda avval karta bog‘lash kerak bo‘ladi.
+
+TRANZAKSIYA SAVOLLARI
+
+31. Bank o‘tkazmasi qancha vaqtda yetib boradi?
+Javob: Bir bank ichida odatda tez, turli banklar orasida esa ko‘proq vaqt olishi mumkin.
+
+32. Noto‘g‘ri hisobga pul yubordim. Qaytarish mumkinmi?
+Javob: Darhol bankka murojaat qiling, lekin qaytarish kafolatlanmaydi.
+
+33. Nega tranzaksiya kutilmoqda deb ko‘rsatilgan?
+Javob: U tasdiqlangan, lekin hali yakuniy hisob-kitobga tushmagan.
+
+34. Qaytarim qancha vaqtda tushadi?
+Javob: Mahalliy operatsiyalarda odatda bir necha ish kuni, xalqaro operatsiyalarda ko‘proq.
+
+35. Hozirgina qilgan karta to‘lovini bekor qila olamanmi?
+Javob: To‘g‘ridan to‘g‘ri emas, savdogardan qaytarim so‘rashingiz kerak.
+
+36. Chargeback nima?
+Javob: Mijoz e’tiroz bildirganida bank tomonidan amalga oshiriladigan majburiy qaytarish jarayoni.
+
+37. Tranzaksiya tarixini qanday ko‘raman?
+Javob: Mobil ilova, internet bank yoki filial orqali.
+
+38. Tranzaksiya identifikatsiya raqami nima?
+Javob: Har bir operatsiyaga beriladigan noyob kod.
+
+KARTANI BOSHQARISH SAVOLLARI
+
+39. Yangi karta qancha vaqtda tayyor bo‘ladi?
+Javob: Odatda 1 dan 5 ish kunigacha, ayrim banklarda tezroq.
+
+40. Yangi kartani qanday faollashtiraman?
+Javob: Bankomat, mobil ilova yoki bank orqali.
+
+41. Karta qancha muddat amal qiladi?
+Javob: Ko‘pincha 2 yildan 5 yilgacha.
+
+42. Karta muddati tugasa nima bo‘ladi?
+Javob: Bankdan yangisini olish kerak bo‘ladi.
+
+43. Bitta hisobga bir nechta karta bog‘lash mumkinmi?
+Javob: Ko‘p banklarda ha.
+
+44. Kartani bekor qilmasdan vaqtincha muzlatish mumkinmi?
+Javob: Ha, ko‘p banklarda bu imkoniyat bor.
+
+45. Kartani qanday yopaman?
+Javob: Filialga borib ariza yozish kerak bo‘ladi.
+
+TO‘LOVLAR VA LIMITLAR BO‘YICHA SAVOLLAR
+
+46. POS terminalda kartadan foydalanganlik uchun komissiya bormi?
+Javob: Odatda mijoz uchun yo‘q.
+
+47. Mobil ilova orqali o‘tkazmalarda komissiya bormi?
+Javob: Bankka va operatsiyaga qarab bo‘lishi mumkin.
+
+48. Kunlik limitni qanday oshiraman?
+Javob: Call center, filial yoki ilova orqali so‘rov yuboriladi.
+
+49. Xalqaro operatsiyalarda qo‘shimcha to‘lov bormi?
+Javob: Odatda konvertatsiya va xorijiy bankomat komissiyasi bo‘ladi.
+
+50. Kartada minimal qoldiq talab qilinadimi?
+Javob: Bu bank va tarifga bog‘liq.
+
+QO‘SHIMCHA SAVOLLAR
+
+51. O‘zbekiston kartasi bilan Amazon’da to‘lash mumkinmi?
+Javob: Buning uchun odatda Visa yoki Mastercard kerak bo‘ladi.
+
+52. Chet elga ketishdan oldin nima qilish kerak?
+Javob: Bankni ogohlantirish, xalqaro to‘lovlar yoqilganini tekshirish va tariflarni bilish kerak.
+
+53. Payme tizimi nima?
+Javob: To‘lovlar, o‘tkazmalar va xizmatlar uchun keng qo‘llanadigan raqamli platforma.
+
+54. Click tizimi nima?
+Javob: To‘lov va pul o‘tkazmalari uchun mashhur mahalliy platforma.
+
+55. Voyaga yetmaganlar karta olishi mumkinmi?
+Javob: Ma’lum yoshdan keyin yoki ota-ona roziligi bilan mumkin.
+
+56. Overdraft nima?
+Javob: Hisobdagi mablag‘dan ortiq summani limit doirasida ishlatish imkoniyati.
+
+57. Kommunal to‘lovlarni karta orqali to‘lasa bo‘ladimi?
+Javob: Ha.
+
+58. Ish haqi kartasi nima?
+Javob: Ish beruvchi orqali xodimga ish haqi tushirish uchun beriladigan debet karta.
+
+59. UzCard va Humo o‘rtasidagi farq nima?
+Javob: Ikkalasi ham milliy tizim, lekin tashkil etilgan vaqti va ayrim infratuzilmaviy jihatlarda farq qiladi.
+
+60. Kimdir telefon qilib karta ma’lumotlarini so‘rasa nima qilaman?
+Javob: Darhol suhbatni tugating va bankning rasmiy raqamiga o‘zingiz qo‘ng‘iroq qiling.
+
+61. Karta ko‘chirmasi nima?
+Javob: Ma’lum davr ichidagi barcha operatsiyalar ro‘yxati.
+
+62. Soliqni karta orqali to‘lash mumkinmi?
+Javob: Ha, rasmiy platformalar va ilovalar orqali.
+
+63. Kontaktsiz to‘lov limiti qancha?
+Javob: Bu bankka bog‘liq, ma’lum summagacha PIN talab qilinmaydi.
+
+64. Kartani Payme’ga qanday bog‘layman?
+Javob: Ilovada kartani qo‘shish bo‘limiga kirib karta ma’lumotlarini va tasdiqlash kodini kiritasiz.
+
+65. Yopilgan kartaga qaytarim kelsa nima bo‘ladi?
+Javob: Odatda mablag‘ kartaga bog‘langan hisobga tushadi.
+
+66. Bo‘lib-bo‘lib to‘lash kartasi nima?
+Javob: Xaridni oyma-oy to‘lash imkonini beradigan karta.
+
+67. Kartam xalqaro onlayn to‘lovlarga ochiq ekanini qayerdan bilaman?
+Javob: Mobil ilova sozlamalaridan yoki bank orqali bilasiz.
+
+68. Xalqaro pul o‘tkazmalarini kartaga qabul qilish mumkinmi?
+Javob: Ayrim xizmatlar va bank imkoniyatlariga qarab, ha.
+
+69. QR to‘lov nima?
+Javob: Savdogar ko‘rsatgan QR kodni skanerlab to‘lov qilish usuli.
+
+70. Mobil banking orqali kartani boshqarish xavfsizmi?
+Javob: Rasmiy ilovadan foydalansangiz va himoya choralariga rioya qilsangiz, ha.
+
+71. Ekvayring xizmati nima?
+Javob: Savdogarlarga karta orqali to‘lov qabul qilish imkonini beruvchi bank xizmati.
+
+72. Kartamga o‘zim xarajat limiti qo‘ya olamanmi?
+Javob: Ko‘p banklarda bu imkoniyat mavjud.
+
+73. Xorijiy valyuta hisobi nima?
+Javob: Dollar, yevro va boshqa valyutalarda mablag‘ saqlash uchun hisob.
+
+74. Kartadan qimor yoki stavka saytlarida foydalansa bo‘ladimi?
+Javob: Ayrim banklar bunday operatsiyalarni bloklaydi, shuningdek qonunchilik cheklovlari bo‘lishi mumkin.
+
+75. Bankomat qalbaki kupyura bersa nima qilaman?
+Javob: Joy, vaqt va tranzaksiya ma’lumotlarini yozib olib, darhol bankka murojaat qiling.
+
+
+11-BO‘LIM: KARTA TIZIMLARI QISQA TAQQOSLOVI
+
+Xususiyat | UzCard | Humo | Visa | Mastercard
+Ichki foydalanish | Ha | Ha | Ha | Ha
+Xalqaro foydalanish | Yo‘q | Yo‘q | Ha | Ha
+Valyuta | Faqat so‘m | Faqat so‘m | Ko‘p valyutali | Ko‘p valyutali
+O‘zbekistondagi bankomatlar | Ha | Ha | Hamkor tarmoqlar | Hamkor tarmoqlar
+Global bankomat tarmog‘i | Yo‘q | Yo‘q | Ha | Ha
+Kontaktsiz to‘lov | Ha | Ha | Ha | Ha
+Mahalliy onlayn to‘lov | Ha | Ha | Ha | Ha
+Xalqaro onlayn to‘lov | Yo‘q | Yo‘q | Ha | Ha
+Firibgarlikdan himoya | Asosiy | Asosiy | Kengroq | Kengroq
+3D Secure | Ha | Ha | Ha | Ha
+
+
+12-BO‘LIM: ATAMALAR LUG‘ATI
+
+Hisob: Bank mijoz mablag‘larini saqlaydigan rasmiy hisobvaraq.
+
+Ekvayer: Savdogar nomidan karta operatsiyalarini qayta ishlaydigan bank yoki moliyaviy tashkilot.
+
+Bankomat: Naqd pul yechish, balansni ko‘rish va boshqa bank xizmatlarini bajarish qurilmasi.
+
+Avtorizatsiya: Bank operatsiyani tasdiqlashi yoki rad etishi jarayoni.
+
+Balans: Hisobdagi mavjud mablag‘ miqdori.
+
+Karta raqami: Kartaning old tomonidagi noyob raqam.
+
+Karta egasi: Karta kim nomiga chiqarilgan bo‘lsa, o‘sha shaxs.
+
+Chargeback: Nizoli tranzaksiya bo‘yicha bank orqali amalga oshiriladigan qaytarish.
+
+Chip: Himoyalangan operatsiyalarni ta’minlaydigan mikrosxema.
+
+Kontaktsiz to‘lov: Karta yoki telefonni terminalga yaqinlashtirib amalga oshiriladigan to‘lov.
+
+Kredit limiti: Kredit kartada ishlatish mumkin bo‘lgan maksimal qarz summasi.
+
+CVV yoki CVC: Kartaning orqa tomonidagi xavfsizlik kodi.
+
+Debet karta: Hisobdan to‘g‘ridan to‘g‘ri mablag‘ yechadigan karta.
+
+EMV: Chipli to‘lov kartalari uchun xalqaro standart.
+
+Amal qilish muddati: Karta yaroqli bo‘lgan oxirgi sana.
+
+Firibgarlik: Kartadan yoki hisobdan ruxsatsiz foydalanish.
+
+Humo: 2019-yilda ishga tushirilgan O‘zbekistonning milliy to‘lov tizimi.
+
+Bo‘lib-bo‘lib to‘lash kartasi: Xaridni teng qismlarga bo‘lib to‘lash imkonini beruvchi karta.
+
+Emitent bank: Kartani mijozga chiqaruvchi bank.
+
+Savdogar: Tovar yoki xizmat uchun karta qabul qiluvchi tadbirkor yoki tashkilot.
+
+NFC: Kontaktsiz to‘lovga imkon beruvchi yaqin masofali aloqa texnologiyasi.
+
+Bir martalik kod: Operatsiyani tasdiqlash uchun yuboriladigan vaqtinchalik kod.
+
+Overdraft: Hisobdagi mablag‘dan ortiq summani limit doirasida ishlatish imkoniyati.
+
+PIN: Bankomat va terminalda operatsiyani tasdiqlovchi maxfiy kod.
+
+POS: Savdo nuqtasidagi to‘lov qurilmasi.
+
+Oldindan avtorizatsiya: Kutilayotgan operatsiya uchun vaqtincha summa ushlab turish.
+
+Qaytarim: Operatsiya bekor qilinganda mablag‘ni qaytarish.
+
+Hisob-kitob: Operatsiyadan keyin mablag‘ning savdogarga o‘tish jarayoni.
+
+Skimming: Karta ma’lumotlarini qurilma orqali yashirin nusxalash usuli.
+
+SWIFT kodi: Xalqaro pul o‘tkazmalarida ishlatiladigan bank kodi.
+
+UzCard: 2004-yilda tashkil etilgan O‘zbekistonning asosiy milliy to‘lov tizimi.
+
+Virtual karta: Jismoniy shakli bo‘lmagan raqamli karta.
+
+3D Secure: Onlayn to‘lovlarga qo‘shimcha tasdiqlash bosqichi beruvchi xavfsizlik protokoli.
+
+
+13-BO‘LIM: MUHIM ALOQA VA MANBALAR
+
+UzCard aloqa markazi: 1243
+UzCard sayti: uzcard.uz
+
+Humo aloqa markazi: 1209
+Humo sayti: humo.uz
+
+O‘zbekiston Markaziy banki: cbu.uz
+Visa bo‘yicha yordam: visa.com orqali yoki kartani chiqargan bank orqali
+Mastercard bo‘yicha yordam: mastercard.com orqali yoki kartani chiqargan bank orqali
+
+Payme yordam: payme.uz va ilova ichida
+Click yordam: click.uz va ilova ichida
+
+Yirik banklar aloqa raqamlari haqida ma’lumot vaqt o‘tishi bilan o‘zgarishi mumkin. Doim bankning rasmiy manbasidan tekshirish tavsiya etiladi.
+
+
+14-BO‘LIM: TARTIBGA SOLISH VA MUVOFIQLIK ASOSLARI
+
+O‘zbekistondagi bank kartalari tizimi quyidagi tashkilot va qonunlar nazorati ostida ishlaydi:
+
+O‘zbekiston Respublikasi Markaziy banki:
+- To‘lov tizimlari va bank operatsiyalarini tartibga soladi
+- Ichki to‘lov infratuzilmasi barqarorligi va xavfsizligini nazorat qiladi
+- Pul yuvishga qarshi va terrorizmni moliyalashtirishga qarshi talablarni belgilaydi
+- Iste’molchilar huquqlarini himoya qilish bo‘yicha ko‘rsatmalar beradi
+
+To‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun:
+- Karta operatsiyalarining huquqiy asosini belgilaydi
+- Tizim ishtirokchilarining huquq va majburiyatlarini aniqlaydi
+- Nizolarni hal etish tartibini nazorat qiladi
+
+Banklar va bank faoliyati to‘g‘risidagi qonun:
+- Tijorat banklari faoliyatining asoslarini belgilaydi
+- Karta chiqarish va boshqarish qoidalarini qamrab oladi
+
+Iste’molchilarni himoya qilish:
+- Mijozlar bankka shikoyat berish huquqiga ega
+- Hal bo‘lmasa, Markaziy bankka murojaat qilish mumkin
+
+Pul yuvishga qarshi talablar:
+- Banklar shubhali operatsiyalarni kuzatadi
+- Yirik tranzaksiyalar bo‘yicha qo‘shimcha hujjatlar so‘ralishi mumkin
+- Tushuntirish berilmasa, hisob vaqtincha muzlatilishi mumkin
+
+Ma’lumotlarni himoya qilish:
+- Mijozning karta ma’lumotlari qonun bilan himoyalangan
+- Banklar roziliksiz ma’lumotni begona shaxslarga bera olmaydi
+- Karta ma’lumotlari bilan ishlaydigan tashkilotlar xavfsizlik standartlariga rioya qilishi kerak
+
+
+15-BO‘LIM: KARTA EGALARI UCHUN ENG YAXSHI AMALIYOTLAR
+
+Kundalik foydalanish uchun:
+1. Kartani alohida xavfsiz joyda saqlang
+2. PIN’ni yodda tuting, yozib yurmaying
+3. Har bir operatsiya uchun xabarnomalarni yoqing
+4. Hisob tarixini kamida haftasiga bir marta tekshiring
+5. Kartani olgan zahoti imzo qo‘ying, agar kerak bo‘lsa
+6. Yangi kartani uzoq vaqt faollashtirmay qoldirmang
+
+Bankomatdan foydalanganda:
+1. Kartani kiritishdan oldin qurilmani tekshiring
+2. PIN kiritayotganda klaviaturani qo‘lingiz bilan yoping
+3. Begonalardan yordam olmang
+4. Kartani unutib qoldirmang
+5. Chekni olib, xavfsiz yo‘q qiling
+6. Imkon qadar bank ichidagi yoki kuzatuv ostidagi bankomatlardan foydalaning
+
+Onlayn xarid uchun:
+1. Faqat ishonchli va himoyalangan saytlarda xarid qiling
+2. Virtual kartadan foydalangan ma’qul
+3. Karta ma’lumotlarini noma’lum saytlarda saqlamang
+4. Tasdiqlash kodi aynan siz qilayotgan operatsiya uchun ekanini tekshiring
+5. Ilovani muntazam yangilang
+6. Ish tugagach ilovadan chiqing
+
+Safarga chiqishda:
+1. Chet elga ketishdan oldin bankni xabardor qiling
+2. Kamida ikki xil to‘lov usulini olib yuring
+3. Favqulodda bloklash raqamini bilib oling
+4. Karta raqami va bank kontaktlarini hamyondan alohida joyda saqlang
+
+Pochta orqali karta olganda:
+1. Olgan zahoti faollashtiring
+2. Birinchi ishlatishdan oldin PIN’ni tayyorlab oling
+3. PIN ko‘rsatilgan hujjatlarni xavfsiz yo‘q qiling
+4. Karta vaqtida kelmasa, bank bilan bog‘laning
+
+
+BILIMLAR BAZASI YAKUNI
+Hujjat: bank_card_informations_v2.txt
+Maqsad: O‘zbekiston bank kartalari bo‘yicha sun’iy intellekt call center assistenti uchun bilimlar bazasi
+Jami bo‘limlar: 15
+Til: O‘zbek tili
+Qamrov: O‘zbekiston bank kartalari ekotizimi — UzCard, Humo, Visa, Mastercard
+Oxirgi yangilanish: 2026-yil aprel
