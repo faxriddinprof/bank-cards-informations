@@ -1,0 +1,2061 @@
+================================================================================
+BANK CARDS KNOWLEDGE BASE — UZBEKISTAN BANKING SYSTEM
+AI CALL CENTER ASSISTANT REFERENCE DOCUMENT
+Version: 1.0 | Date: April 2026
+================================================================================
+
+
+================================================================================
+SECTION 1: INTRODUCTION TO BANK CARDS
+================================================================================
+
+A bank card is a physical or virtual payment instrument issued by a bank or
+financial institution that allows cardholders to access their funds, make
+purchases, withdraw cash, and perform various financial transactions. Bank cards
+are linked to a bank account and serve as the primary interface between a
+customer and their money in modern banking systems.
+
+Bank cards are embedded with a magnetic stripe, an EMV chip (microchip), and
+increasingly a contactless payment antenna (NFC — Near Field Communication).
+Each card carries a unique card number (typically 16 digits), an expiration
+date, and a security code (CVV/CVC) used for online transactions.
+
+In Uzbekistan, bank cards have become the dominant payment instrument for both
+retail and digital commerce. The government, through the Central Bank of the
+Republic of Uzbekistan, has actively promoted cashless payments, leading to
+widespread adoption of local card systems such as UzCard and Humo, alongside
+international systems like Visa and Mastercard.
+
+Bank cards serve the following core purposes:
+- Accessing funds stored in a bank account
+- Making payments at physical stores (POS terminals)
+- Withdrawing cash at ATMs
+- Paying for goods and services online
+- Transferring money to other individuals
+- Receiving salaries, pensions, and social benefits
+- Managing personal finances through mobile banking apps
+
+The use of bank cards reduces the need to carry physical cash, provides a
+transaction history for personal budgeting, and offers protection through
+security features and dispute resolution mechanisms provided by banks.
+
+In Uzbekistan, the adoption of cashless payment systems has grown significantly
+since 2017, driven by government digitalization initiatives, mobile banking app
+development, and QR code payment infrastructure.
+
+
+================================================================================
+SECTION 2: TYPES OF BANK CARDS
+================================================================================
+
+------------------------------------------------------------------------
+2.1 DEBIT CARDS
+------------------------------------------------------------------------
+
+A debit card is directly linked to a customer's bank account (current account
+or savings account). When a payment is made using a debit card, the funds are
+immediately debited (deducted) from the linked account. The cardholder can only
+spend the money that is currently available in the account unless an overdraft
+facility has been enabled.
+
+Key characteristics of debit cards:
+- Funds are taken directly from the bank account balance
+- No borrowing involved — the cardholder spends their own money
+- Cannot be used if account balance is insufficient (without overdraft)
+- Widely used for everyday purchases, ATM withdrawals, and online payments
+- Issued to any account holder who meets the bank's basic eligibility criteria
+- Lower risk compared to credit cards as there is no debt accumulation
+
+In Uzbekistan, debit cards are the most common type of bank card. Most salary
+cards, pension cards, and student stipend cards are debit cards. UzCard and
+Humo are primarily debit card systems that operate within the national payment
+infrastructure.
+
+Common debit card types in Uzbekistan:
+- Salary cards (issued through employers)
+- Personal debit cards (opened individually at the bank)
+- Student cards
+- Pension and social benefit cards
+- Children's cards (for minors with parental oversight)
+
+------------------------------------------------------------------------
+2.2 CREDIT CARDS
+------------------------------------------------------------------------
+
+A credit card allows the cardholder to borrow money from the issuing bank up to
+a pre-approved credit limit. The borrowed amount must be repaid within a
+specified period, usually monthly. If not repaid in full, interest charges
+(annual percentage rate — APR) are applied to the remaining balance.
+
+Key characteristics of credit cards:
+- Spend now, pay later mechanism
+- Credit limit assigned by the bank based on creditworthiness
+- Grace period (interest-free period) typically ranges from 15 to 60 days
+- Interest charged on outstanding balances after the grace period
+- Monthly minimum payment required to avoid penalties
+- Can be used for larger purchases beyond current account balance
+- Builds credit history when used responsibly
+
+In Uzbekistan, credit cards are offered by several commercial banks including:
+- Kapitalbank
+- Hamkorbank
+- Ipoteka Bank
+- TBC Bank Uzbekistan
+- Anorbank
+
+Uzbekistan credit card products often include:
+- Installment cards (rassrochka cards) allowing purchases to be split into
+  monthly payments without interest for a defined period
+- Standard revolving credit cards with monthly statements
+- Secured credit cards backed by a deposit
+
+Credit card eligibility in Uzbekistan typically requires:
+- Proof of stable income (salary certificate)
+- Valid identification (passport)
+- Minimum age of 18 years
+- Clean credit history with the Credit Bureau of Uzbekistan
+- Employment with a registered organization
+
+------------------------------------------------------------------------
+2.3 VIRTUAL CARDS
+------------------------------------------------------------------------
+
+A virtual card is a digital-only payment card that exists in electronic form
+and does not have a physical plastic counterpart. It has all the same attributes
+as a physical card — card number, expiration date, and CVV — but is accessible
+only through a mobile banking application or online banking platform.
+
+Key characteristics of virtual cards:
+- No physical card — exists only in digital format
+- Primarily designed for online purchases and digital payments
+- Can be issued instantly through mobile banking apps
+- Can be disposable (single-use) or reusable
+- Enhanced security — card details can be refreshed after each transaction
+- Cannot be used for ATM withdrawals (in most implementations)
+- Linked to the same bank account or a separate sub-account
+
+In Uzbekistan, virtual cards are offered by:
+- Payme (via its integrated card offering)
+- Click (digital wallet with virtual card features)
+- Uzum Bank (formerly Apelsin) — instant virtual card issuance
+- TBC Bank Uzbekistan — virtual Visa cards
+- Hamkorbank — online virtual cards
+
+Virtual cards are especially popular for:
+- International online shopping (Amazon, AliExpress, etc.)
+- Subscription services (Netflix, Spotify, etc.)
+- Securing against online fraud — minimize exposure of main card details
+- One-time purchases where users do not want to expose their primary card number
+
+------------------------------------------------------------------------
+2.4 INTERNATIONAL CARDS (VISA AND MASTERCARD)
+------------------------------------------------------------------------
+
+International cards operate on global payment networks that allow transactions
+to be processed in any country worldwide where the respective network is
+accepted. In Uzbekistan, the two dominant international card networks are Visa
+and Mastercard.
+
+Visa International:
+- One of the world's largest payment networks
+- Accepted in over 200 countries and territories
+- Enables online payments in foreign currencies
+- Provides access to global ATM networks
+- Offers Visa Zero Liability protection against unauthorized transactions
+- Available in tiers: Visa Classic, Visa Gold, Visa Platinum, Visa Infinite
+
+Mastercard International:
+- Competitor to Visa, accepted in over 210 countries and territories
+- Offers similar global coverage and services
+- Mastercard SecureCode for online transaction authentication
+- Available in tiers: Mastercard Standard, Gold, Platinum, World, World Elite
+
+In Uzbekistan, international cards are issued by major commercial banks and are
+required for:
+- International travel and purchases abroad
+- Online shopping on foreign websites
+- Foreign currency transactions
+- Access to global ATM networks (Plus, Cirrus)
+- Hotel bookings, car rentals, and flight purchases
+
+Currency conversion for international transactions:
+When using an international card abroad or for foreign currency online
+purchases, the transaction amount is converted from the foreign currency to
+Uzbek Sum (UZS) at the exchange rate applied by the bank on the day of the
+transaction. Banks may apply an additional foreign exchange markup fee
+(typically 1–3%) on top of the official exchange rate.
+
+------------------------------------------------------------------------
+2.5 PREPAID CARDS
+------------------------------------------------------------------------
+
+A prepaid card is loaded with a specific amount of money by the cardholder or
+a third party before use. It is not linked to a bank account in the traditional
+sense. Spending is limited to the preloaded amount.
+
+Use cases for prepaid cards in Uzbekistan:
+- Gift cards for retail promotions
+- Employee benefit cards
+- Travel cards loaded with a specific currency
+- Cards for individuals without a bank account
+- Parental allowance cards for children
+
+
+================================================================================
+SECTION 3: UZBEKISTAN CARD SYSTEM
+================================================================================
+
+------------------------------------------------------------------------
+3.1 UZCARD — NATIONAL PAYMENT SYSTEM
+------------------------------------------------------------------------
+
+UzCard is the national interbank payment card system of Uzbekistan, established
+in 2004 under the oversight of the Central Bank of the Republic of Uzbekistan.
+It is operated by the UzCard Processing Center and is the most widely used
+payment system in the country.
+
+Key facts about UzCard:
+- Operated by: UzCard Processing Center (State Joint-Stock Company)
+- Currency: Uzbek Sum (UZS) only
+- Coverage: Accepted at all ATMs and POS terminals within Uzbekistan
+- Card network: Domestic — does not work outside Uzbekistan
+- Primary use: Salary payments, pension disbursements, local transactions
+- Card number format: Starts with 8600 (standard UzCard prefix)
+- Supported banks: All major commercial banks in Uzbekistan issue UzCard cards
+
+UzCard infrastructure:
+- Over 7,000 ATMs nationwide
+- Over 120,000 POS terminals across retail, hospitality, and service sectors
+- QR payment network via UzCard QR
+- Integration with major mobile banking apps (Click, Payme, etc.)
+
+UzCard card issuance process:
+1. Customer visits a bank branch with a valid passport
+2. Fills out a card application form
+3. Bank opens a current account linked to the card
+4. Card is issued immediately or within 1–5 business days
+5. PIN code is set at the branch or via ATM/mobile app
+
+UzCard card types:
+- UzCard Standard (basic debit card)
+- UzCard Gold (premium benefits, higher limits)
+- UzCard Paywave (contactless payment enabled)
+- Co-branded cards (issued in partnership with retailers or employers)
+
+UzCard security features:
+- EMV chip technology
+- PIN-based authentication at ATMs and POS
+- SMS OTP for mobile banking operations
+- 3D Secure for online transactions (where supported)
+
+UzCard transaction fees (general):
+- Inter-bank transfers between UzCard accounts: 0.5–1% fee (varies by bank)
+- ATM withdrawals from own bank: Free
+- ATM withdrawals from other banks: 0.5–1% fee
+- POS payments: No fee for the cardholder (merchant pays the processing fee)
+
+UzCard customer support: 1243 (short number, toll-free within Uzbekistan)
+
+------------------------------------------------------------------------
+3.2 HUMO — NATIONAL PAYMENT SYSTEM
+------------------------------------------------------------------------
+
+Humo is the second national payment card system of Uzbekistan, launched in
+2019. It was developed as an alternative to UzCard to increase competition and
+improve the domestic payment ecosystem. Humo is operated by the National
+Interbank Processing Center (NIPC).
+
+Key facts about Humo:
+- Operated by: National Interbank Processing Center (NIPC)
+- Currency: Uzbek Sum (UZS) only
+- Coverage: Accepted at ATMs and POS terminals within Uzbekistan
+- Card network: Domestic — does not work outside Uzbekistan
+- Card number format: Starts with 9860 (standard Humo prefix)
+- Supported banks: All major commercial banks in Uzbekistan also issue Humo
+
+Differences between UzCard and Humo:
+- Both are domestic card systems operating only within Uzbekistan
+- Humo introduced more modern infrastructure with real-time processing
+- Humo cards are issued by a slightly different set of partner banks
+- Both systems are interoperable at ATMs and POS terminals as of 2021
+- Some banks issue combo cards that function as both UzCard and Humo
+
+Humo card types:
+- Humo Standard
+- Humo Gold
+- Humo Virtual (for online payments)
+- Humo Paywave (contactless)
+
+Humo security features:
+- EMV chip
+- PIN authentication
+- SMS notifications for all transactions
+- Fraud monitoring system
+
+Humo customer support: 1209 (short number, toll-free within Uzbekistan)
+
+------------------------------------------------------------------------
+3.3 VISA IN UZBEKISTAN
+------------------------------------------------------------------------
+
+Visa cards in Uzbekistan are issued by several commercial banks and provide
+access to the global Visa network. They are essential for international
+transactions, travel, and online purchases from foreign platforms.
+
+Banks issuing Visa cards in Uzbekistan include:
+- Kapitalbank (Visa Classic, Gold, Platinum)
+- Uzpromstroybank
+- Hamkorbank
+- TBC Bank Uzbekistan (Visa Classic and Platinum)
+- Ravnaq Bank
+- Ipoteka Bank
+
+Visa card use cases in Uzbekistan:
+- International travel payments
+- Online shopping on international platforms (Amazon, eBay, Booking.com)
+- Foreign currency ATM withdrawals abroad
+- Subscription services priced in foreign currencies
+- Corporate travel expenses
+
+Visa card requirements in Uzbekistan:
+- Valid Uzbekistan passport (or foreign passport for non-residents)
+- Bank account in UZS or foreign currency (USD, EUR)
+- Age 18 or older (16+ for some student variants)
+- Initial deposit (varies by bank, typically $10–$100 equivalent)
+
+Visa card annual maintenance fees:
+- Visa Classic: $5–$15 per year (approximate)
+- Visa Gold: $15–$30 per year (approximate)
+- Visa Platinum: $30–$60 per year (approximate)
+(Note: Exact fees vary by issuing bank and card product)
+
+------------------------------------------------------------------------
+3.4 MASTERCARD IN UZBEKISTAN
+------------------------------------------------------------------------
+
+Mastercard is also available in Uzbekistan through select commercial banks,
+offering similar international payment capabilities as Visa.
+
+Banks issuing Mastercard in Uzbekistan:
+- Anorbank
+- Uzum Bank (formerly Apelsin)
+- TBC Bank Uzbekistan
+- Some other commercial banks
+
+Mastercard features available to Uzbekistan cardholders:
+- Mastercard SecureCode (2FA for online transactions)
+- Global ATM access via Cirrus network
+- Priceless Cities offers and benefits
+- Mastercard ID Theft Protection (on premium cards)
+
+------------------------------------------------------------------------
+3.5 INTEROPERABILITY AND CO-BRANDED CARDS
+------------------------------------------------------------------------
+
+Since 2021, UzCard and Humo systems have been made interoperable, meaning
+customers can use either card at any ATM or POS terminal that accepts domestic
+cards, regardless of whether the terminal was originally set up for UzCard or
+Humo.
+
+Some Uzbekistan banks issue co-branded cards that carry both UzCard/Humo
+functionality and Visa/Mastercard functionality on a single card. These cards
+are dual-network cards:
+- Can be used domestically as UzCard or Humo
+- Can be used internationally as Visa or Mastercard
+- The international network is used when transacting outside Uzbekistan or on
+  international websites
+
+
+================================================================================
+SECTION 4: CARD OPERATIONS
+================================================================================
+
+------------------------------------------------------------------------
+4.1 CARD ACTIVATION
+------------------------------------------------------------------------
+
+When a new bank card is issued, it is typically in an inactive state for
+security purposes. The cardholder must activate the card before first use.
+
+Methods to activate a card in Uzbekistan:
+
+Method 1 — ATM Activation:
+1. Insert the new card into any ATM of the issuing bank
+2. Enter the PIN code provided with the card or set a new one
+3. The system automatically activates the card upon successful PIN entry
+4. Confirm activation via SMS notification
+
+Method 2 — Mobile Banking App:
+1. Log in to the bank's official mobile banking application
+2. Navigate to "Cards" or "My Cards" section
+3. Select the newly issued card
+4. Click "Activate Card" button
+5. Confirm identity via OTP (One-Time Password) sent to registered mobile number
+6. Card is activated instantly
+
+Method 3 — Bank Branch:
+1. Visit the issuing bank branch with a valid passport
+2. Request card activation from a bank teller
+3. Provide proof of identity
+4. Card is activated within minutes
+
+Method 4 — Phone Banking (Call Center):
+1. Call the bank's official customer support number
+2. Verify identity through security questions and registered phone number
+3. Request card activation
+4. Receive confirmation via SMS
+
+Important note: Cards that are not activated within 30–90 days of issuance
+(depending on bank policy) may be deactivated or returned. Always activate
+your card promptly upon receipt.
+
+------------------------------------------------------------------------
+4.2 PIN CODE USAGE
+------------------------------------------------------------------------
+
+A PIN (Personal Identification Number) is a 4-digit or 6-digit secret code
+used to authenticate the cardholder during ATM withdrawals, POS payments, and
+certain online transactions.
+
+PIN code rules and best practices:
+- Never share your PIN with anyone, including bank employees
+- Memorize your PIN — do not write it on the card or store it in your wallet
+- Change your PIN regularly for security
+- Avoid easily guessable PINs (1234, 0000, birth year)
+- Always shield the keypad when entering your PIN at ATMs or POS terminals
+
+PIN code entry at ATM:
+- Insert card → Enter PIN → Access account menu
+- 3 consecutive wrong PIN attempts → Card is temporarily blocked
+- Blocked card can be unblocked at the bank branch or via mobile app
+
+PIN code at POS terminal:
+- Contactless payments below a threshold (usually 200,000–500,000 UZS)
+  may not require PIN
+- Larger contactless or chip payments require PIN entry
+- Some merchants may require signature instead of PIN for international cards
+
+Setting or changing PIN:
+Method 1 — ATM: Insert card → Select "PIN Management" → Enter current PIN →
+Enter new PIN → Confirm new PIN → Done
+Method 2 — Mobile Banking App: Cards section → Select card →
+"Change PIN" → Follow instructions → Confirm via OTP
+Method 3 — Bank Branch: Visit with passport → Request PIN change/reset
+
+Forgotten PIN procedure:
+1. Visit the nearest branch of the issuing bank
+2. Bring a valid passport (or equivalent identification)
+3. Request PIN reset
+4. Bank resets PIN — cardholder sets a new PIN at ATM or in mobile app
+5. Alternatively, call the bank's call center and complete identity verification
+
+------------------------------------------------------------------------
+4.3 ATM WITHDRAWALS
+------------------------------------------------------------------------
+
+ATM (Automated Teller Machine) withdrawals allow cardholders to access cash
+from their bank account using their debit or credit card.
+
+Step-by-step ATM withdrawal process:
+1. Insert your card into the card slot (chip end first, face up)
+2. Select language if prompted
+3. Enter your 4-digit (or 6-digit) PIN code
+4. Select "Cash Withdrawal" or "Nalichnie" from the menu
+5. Enter the desired withdrawal amount
+6. Confirm the transaction
+7. Collect cash from the dispenser
+8. Collect your card (card is returned before cash is dispensed on most ATMs)
+9. Collect your receipt (optional)
+
+ATM withdrawal tips:
+- Verify the ATM is official and not tampered with before use
+- Check for card skimming devices on the card slot
+- Use ATMs in well-lit, secure locations
+- Never accept help from strangers while using an ATM
+- Cancel the transaction if anything seems suspicious
+
+ATM withdrawal limits (approximate for Uzbekistan):
+- UzCard/Humo: Daily limit typically 10,000,000–20,000,000 UZS per day
+- International cards (Visa/MC): Daily limit in foreign currency typically
+  $500–$2,000 equivalent
+- Single transaction maximum: Usually 5,000,000 UZS for domestic cards
+- Some premium cards have higher limits
+(Exact limits depend on the issuing bank and card type)
+
+Common ATM errors and meanings:
+- "Insufficient funds": Account balance is lower than the withdrawal amount
+- "Card blocked": Card has been blocked due to security reasons or wrong PIN
+- "Transaction limit exceeded": Daily or per-transaction limit has been reached
+- "ATM out of cash": The ATM's cash cassette is empty
+- "Card not supported": The ATM does not accept the card network type
+- "System error": Temporary technical issue — try another ATM
+
+------------------------------------------------------------------------
+4.4 POS PAYMENTS (POINT OF SALE)
+------------------------------------------------------------------------
+
+POS (Point of Sale) payments are made using a bank card at a merchant's payment
+terminal. This includes payments at supermarkets, restaurants, clothing stores,
+pharmacies, and any other business that accepts card payments.
+
+Types of POS payments:
+
+Chip and PIN payment:
+1. Cardholder presents card to cashier
+2. Cashier enters the payment amount into the terminal
+3. Customer inserts the card into the chip reader
+4. Customer enters PIN on the keypad
+5. Terminal processes the transaction
+6. Approval message is displayed
+7. Transaction is complete — receipt may be printed
+
+Contactless payment (NFC/Paywave):
+1. Customer holds the card close to the contactless reader (within 4 cm)
+2. Terminal emits a beep or visual signal upon successful read
+3. For amounts below the contactless limit (usually 200,000–500,000 UZS):
+   No PIN required
+4. For amounts above the contactless limit: PIN required
+5. Transaction completes in under 1 second
+
+Mobile payment via NFC (digital wallet):
+- Cardholders can add cards to Payme, Click, or Uzum apps
+- Phone is held near the contactless reader
+- Authenticate with fingerprint, face recognition, or PIN on phone
+- Payment completes without physical card
+
+POS payment tips:
+- Never let the card leave your sight during a payment
+- Verify the amount on the terminal before entering PIN
+- Always take your receipt for large purchases
+- If the terminal is slow or the clerk seems suspicious, cancel the transaction
+
+------------------------------------------------------------------------
+4.5 ONLINE PAYMENTS
+------------------------------------------------------------------------
+
+Online payments involve using card details to pay for goods or services on
+websites, apps, or digital platforms.
+
+Information required for online payment:
+- Card number (16-digit number embossed on the front)
+- Expiration date (MM/YY format, found on the front of the card)
+- CVV/CVC code (3-digit security code on the back of the card)
+- Cardholder name (as printed on the card)
+- Billing address (for some international merchants)
+
+3D Secure authentication:
+- 3D Secure (3DS) is an additional security layer for online payments
+- When a 3DS-enrolled card is used online, an OTP (One-Time Password) is
+  sent to the cardholder's registered phone number
+- The cardholder must enter this OTP on the payment page within a time limit
+  (usually 3–5 minutes)
+- If OTP is not entered correctly or times out, the payment is declined
+- This prevents unauthorized use of card details for online purchases
+
+Online payment platforms widely used in Uzbekistan:
+- Payme (payme.uz) — widely used for utility bills, mobile top-up, e-commerce
+- Click (click.uz) — similar multi-purpose payment platform
+- Uzum Market — e-commerce platform with integrated card payment
+- Apelsin (now Uzum Bank app) — mobile payments
+- OLX Uzbekistan — peer-to-peer marketplace with card payments
+
+Security tips for online payments:
+- Only shop on HTTPS-secured websites
+- Verify the merchant's legitimacy before entering card details
+- Use virtual cards for online purchases to limit exposure
+- Never enter card details on links received via SMS or email
+- Enable transaction notifications to monitor all card activity
+
+
+================================================================================
+SECTION 5: TRANSACTIONS
+================================================================================
+
+------------------------------------------------------------------------
+5.1 SUCCESSFUL TRANSACTION FLOW
+------------------------------------------------------------------------
+
+A standard card transaction follows this technical flow:
+
+Step 1 — Authorization Request:
+The merchant's payment terminal or online payment gateway sends an authorization
+request to the card network (UzCard, Humo, Visa, Mastercard).
+
+Step 2 — Network Routing:
+The card network routes the request to the cardholder's issuing bank.
+
+Step 3 — Issuer Verification:
+The issuing bank checks:
+- Card validity (not expired, not blocked)
+- Account balance (sufficient funds for debit card)
+- Credit limit (for credit cards)
+- Transaction limits (daily/per-transaction)
+- Fraud detection rules
+
+Step 4 — Authorization Response:
+The bank sends an approval or denial response back through the network to the
+merchant's terminal.
+
+Step 5 — Settlement:
+At end of day, the merchant's bank (acquirer) batches and submits all
+transactions for settlement. Funds are transferred from cardholder's account
+to the merchant's account. This may take 1–3 business days.
+
+Step 6 — Statement:
+The transaction appears on the cardholder's account statement. For mobile
+banking users, an instant SMS/push notification is sent.
+
+------------------------------------------------------------------------
+5.2 FAILED TRANSACTION REASONS
+------------------------------------------------------------------------
+
+A transaction can fail at various stages. Common reasons include:
+
+Insufficient funds:
+- The account balance is lower than the transaction amount
+- Solution: Add funds to the account or use a different payment method
+
+Card blocked or frozen:
+- Card has been blocked due to security concerns, wrong PIN attempts, or by
+  the cardholder themselves
+- Solution: Contact the bank to unblock the card
+
+Expired card:
+- The card's expiration date has passed
+- Solution: Request a card replacement from the bank
+
+Transaction limit exceeded:
+- The transaction amount or daily cumulative amount exceeds the set limit
+- Solution: Contact the bank to increase limits or split the purchase
+
+Incorrect card details (online payments):
+- Card number, expiration date, or CVV entered incorrectly
+- Solution: Double-check and re-enter card details
+
+3D Secure failure:
+- OTP was not entered, was entered incorrectly, or expired
+- Solution: Retry the payment and enter the OTP promptly
+
+Network or system error:
+- Technical issues with the payment network or bank systems
+- Solution: Wait a few minutes and retry, or use a different payment method
+
+Card not enabled for online transactions:
+- Some cards are not enabled by default for online or international payments
+- Solution: Enable online payments via mobile banking app or by contacting the bank
+
+Merchant restrictions:
+- Some merchants do not accept certain card types or networks
+- Solution: Use an accepted card type or payment method
+
+Fraud detection block:
+- The bank's fraud detection system flagged the transaction as suspicious
+- This often happens for unusual spending patterns, foreign transactions,
+  or large amounts
+- Solution: Contact the bank to confirm the transaction and unblock
+
+------------------------------------------------------------------------
+5.3 PENDING TRANSACTIONS
+------------------------------------------------------------------------
+
+A pending transaction is a transaction that has been authorized but not yet
+fully settled and cleared. The amount is reserved (held) from the available
+balance but has not yet been permanently deducted.
+
+Pending transactions occur when:
+- A purchase has been authorized but the merchant has not yet completed
+  settlement (common in hotels, car rentals, and restaurants)
+- A refund has been initiated but not yet processed
+- An online transaction is awaiting 3D Secure confirmation
+- A pre-authorization hold has been placed (e.g., hotel check-in deposit)
+
+Pending transaction duration:
+- Typically resolves within 1–5 business days
+- If a pending transaction does not clear, the hold is released and funds
+  become available again (usually within 7 business days)
+
+Pre-authorization holds:
+Hotels, car rental companies, and some online merchants place a temporary
+hold (pre-authorization) on the card to ensure funds are available. This is
+not an actual charge but reduces available balance temporarily.
+- Hotel check-in hold: Typically $50–$200 or equivalent
+- Car rental hold: Typically $200–$500 or equivalent
+- The hold is released when the actual charge is processed upon checkout
+
+------------------------------------------------------------------------
+5.4 REFUND PROCESS
+------------------------------------------------------------------------
+
+A refund returns previously paid funds back to the cardholder's account.
+Refunds occur when:
+- A purchase is returned to the merchant
+- A transaction was made in error
+- A service was not delivered as expected
+- A duplicate charge occurred
+
+Standard refund process:
+1. Customer requests a refund from the merchant (in-store or online)
+2. Merchant initiates a refund transaction on their payment terminal/system
+3. Refund is processed through the card network
+4. Issuing bank receives the refund credit
+5. Funds are credited back to the cardholder's account
+
+Refund timeline:
+- Domestic cards (UzCard, Humo): 1–5 business days
+- International cards (Visa, Mastercard): 5–10 business days (sometimes longer
+  for cross-border transactions)
+- Online refunds: May take up to 14 business days depending on the merchant
+
+Important notes on refunds:
+- Refunds are always credited back to the original card used for payment
+- If the original card has been cancelled or replaced, the refund is still
+  directed to the account — contact the bank if the new card number is different
+- Cash refunds from a card purchase are generally not provided by merchants;
+  refunds are always processed as card reversals
+- Some merchants may offer store credit instead of a card refund
+
+Disputing a transaction:
+If a customer believes a transaction is incorrect, unauthorized, or fraudulent:
+1. Contact the issuing bank's call center immediately
+2. Provide transaction details (date, amount, merchant name)
+3. Bank opens a dispute/chargeback investigation
+4. During investigation, a provisional credit may be applied to the account
+5. Investigation typically takes 15–45 business days
+6. If dispute is resolved in favor of the cardholder, the amount is permanently
+   credited; if in favor of the merchant, the provisional credit is reversed
+
+
+================================================================================
+SECTION 6: SECURITY
+================================================================================
+
+------------------------------------------------------------------------
+6.1 FRAUD TYPES
+------------------------------------------------------------------------
+
+PHISHING:
+Phishing is a social engineering attack where criminals send fake
+emails, SMS messages, or create fake websites that appear to be from a
+legitimate bank or payment service. The goal is to trick the cardholder into
+revealing sensitive information such as card numbers, PINs, OTPs, or passwords.
+
+How phishing works:
+- Fraudster sends an SMS or email claiming to be from the cardholder's bank
+- Message contains a sense of urgency (e.g., "Your card will be blocked")
+- Message includes a link to a fake banking website
+- Cardholder enters their credentials on the fake site
+- Fraudster captures the information and uses it for unauthorized transactions
+
+How to recognize phishing:
+- Messages asking for your card number, PIN, or OTP are always fraudulent
+  (legitimate banks NEVER ask for these via SMS, email, or phone)
+- Sender email address does not match the official bank domain
+- URL of website has misspellings or is not the official bank URL
+- Message contains poor grammar or spelling
+- Urgency tactics ("act immediately or your account will be suspended")
+
+CARD SKIMMING:
+Card skimming is the physical theft of card data using devices installed on
+ATMs or POS terminals. A skimming device reads and copies the magnetic stripe
+data from the card. A hidden camera or false keypad overlay also captures the PIN.
+
+How to detect skimming:
+- Check the card reader for any unusual attachments or loose parts
+- Wiggle the card slot — a legitimate slot should be firm and secure
+- Look for an unusual keypad overlay or small cameras above the keypad
+- Report suspicious ATMs to the bank immediately
+- Prefer ATMs located inside bank branches or well-monitored areas
+
+SIM SWAP FRAUD:
+SIM swap occurs when a criminal convinces the mobile operator to transfer the
+victim's phone number to a new SIM card controlled by the fraudster. Once the
+fraudster controls the victim's phone number, they can receive OTPs and access
+mobile banking apps.
+
+How SIM swap works:
+1. Fraudster gathers personal information about the target (via phishing or
+   data breaches)
+2. Fraudster contacts the mobile operator pretending to be the victim
+3. Requests a SIM replacement claiming phone is lost or damaged
+4. New SIM is issued to the fraudster
+5. Fraudster receives all OTPs and can reset banking passwords
+
+Signs of SIM swap attack:
+- Sudden loss of mobile signal without apparent reason
+- Unable to make or receive calls despite good network coverage
+- SMS messages stop arriving
+- Mobile banking app shows unusual activity
+
+Prevention:
+- Contact your mobile operator immediately if you lose mobile service unexpectedly
+- Enable additional security on your mobile account (PIN with operator)
+- Use authenticator apps instead of SMS for 2FA where possible
+
+CARDING (CARD DATA THEFT):
+Carding refers to the use of stolen card data (obtained through data breaches,
+phishing, or dark web purchases) to make fraudulent purchases. The fraudster
+does not have the physical card but possesses the card details.
+
+MAN-IN-THE-MIDDLE ATTACKS:
+An attacker intercepts communication between the cardholder and the bank
+system, typically on unsecured Wi-Fi networks, to capture transaction data.
+Prevention: Avoid using online banking or making card payments on public
+or unsecured Wi-Fi networks. Use a VPN when on public networks.
+
+COUNTERFEIT CARDS:
+Using skimmed or stolen card data, criminals create physical counterfeit
+cards with the magnetic stripe programmed with stolen data. EMV chip cards
+have largely reduced this threat for chip transactions, but magnetic stripe
+transactions remain vulnerable.
+
+------------------------------------------------------------------------
+6.2 HOW TO DETECT FRAUD
+------------------------------------------------------------------------
+
+Monitoring your account:
+- Enable SMS and push notifications for all transactions
+- Check your account statement regularly (at least weekly)
+- Review notifications immediately after each transaction to verify accuracy
+- Report any unfamiliar or unexpected transaction immediately
+
+Signs of potential fraud on your account:
+- Transactions you do not recognize
+- Small test transactions (fraudsters often make small charges first to verify
+  a stolen card is active)
+- Foreign transactions you did not make
+- Account balance lower than expected
+- Receiving OTPs you did not request
+- Being locked out of your mobile banking app
+
+------------------------------------------------------------------------
+6.3 WHAT TO DO IF FRAUD HAPPENS
+------------------------------------------------------------------------
+
+Immediate actions:
+1. BLOCK YOUR CARD IMMEDIATELY via mobile banking app, ATM, or call center
+2. Call your bank's 24/7 fraud hotline
+3. Change your online banking password and PIN immediately
+4. Report the unauthorized transactions to the bank
+5. If SIM swap is suspected, contact your mobile operator to secure your account
+6. File a complaint with the bank for each unauthorized transaction
+7. If a significant amount was lost, file a police report
+
+Information to provide to the bank:
+- Your full name and account number
+- Card number (or last 4 digits)
+- Description of unauthorized transactions (date, amount, merchant if known)
+- When you first noticed the fraud
+- Any suspicious communications you received (SMS, email, calls)
+
+Chargeback rights:
+- Cardholders have the right to dispute unauthorized transactions
+- Visa and Mastercard have chargeback rules that protect consumers
+- Disputes must typically be filed within 60–120 days of the transaction date
+- The bank investigates and, if fraud is confirmed, the amount is refunded
+
+------------------------------------------------------------------------
+6.4 CARD BLOCKING PROCEDURES
+------------------------------------------------------------------------
+
+A card can be blocked (frozen) through several methods:
+
+Self-blocking via Mobile Banking App:
+1. Open the bank's official mobile banking app
+2. Navigate to "Cards" section
+3. Select the card to block
+4. Tap "Block Card" or "Freeze Card"
+5. Select reason for blocking (lost, stolen, security concern, temporary)
+6. Confirm the action via OTP or biometric authentication
+7. Card is blocked immediately
+
+Blocking via ATM:
+1. Insert card at an ATM
+2. Select "Card Management" or "Services" option
+3. Choose "Block Card"
+4. Enter PIN to confirm
+5. Card is blocked
+
+Blocking via Call Center:
+1. Call the bank's 24/7 customer support number
+2. Verify identity (full name, passport number, secret word, last transaction)
+3. Request card blocking
+4. Bank blocks the card immediately
+5. Reference number is provided for the complaint
+
+Blocking via Bank Branch:
+1. Visit the nearest branch with valid ID
+2. Fill out a card blocking request form
+3. Bank blocks the card in the system
+
+Temporary block vs. permanent block:
+- Temporary block: Card is frozen but not cancelled. Can be unblocked later.
+  Used when card is misplaced but not confirmed stolen.
+- Permanent block: Card is permanently cancelled. A new card must be issued.
+  Used when card is confirmed stolen, compromised, or lost permanently.
+
+Unblocking a temporarily blocked card:
+- Via mobile banking app: Cards → Select card → Unblock Card → Confirm with OTP
+- Via call center: Verify identity → Request unblock
+- Via bank branch: Present ID and request unblock
+
+After permanent block:
+- Request a new card reissuance from the bank
+- Provide identification
+- New card issued with new card number
+- Update stored card details on any saved payment methods (apps, websites)
+
+
+================================================================================
+SECTION 7: LIMITS AND FEES
+================================================================================
+
+------------------------------------------------------------------------
+7.1 DAILY WITHDRAWAL LIMITS
+------------------------------------------------------------------------
+
+UzCard and Humo (domestic cards) daily ATM withdrawal limits:
+- Standard card: Up to 10,000,000 UZS per day
+- Gold card: Up to 20,000,000 UZS per day
+- Premium/Corporate card: Up to 50,000,000 UZS per day
+- Single transaction maximum: 5,000,000 UZS (at most ATMs)
+
+Note: Limits vary by issuing bank. Contact your specific bank for exact limits.
+
+International cards (Visa/Mastercard) daily ATM withdrawal limits:
+- Standard/Classic: $500–$1,000 per day
+- Gold: $1,000–$2,000 per day
+- Platinum: $2,000–$5,000 per day
+
+ATM per-session limits:
+- Most ATMs dispense a maximum of 500,000–1,000,000 UZS per transaction
+  due to note capacity limits
+- Customers can perform multiple transactions to reach their daily limit
+
+------------------------------------------------------------------------
+7.2 ONLINE PAYMENT LIMITS
+------------------------------------------------------------------------
+
+Domestic online payment limits (UzCard/Humo):
+- Standard: Up to 20,000,000 UZS per day
+- Gold: Up to 50,000,000 UZS per day
+- Single transaction: Up to 10,000,000 UZS (varies by merchant and bank)
+
+International online payment limits (Visa/Mastercard):
+- Standard: $1,000–$3,000 per day
+- Gold: $3,000–$5,000 per day
+- Platinum: $5,000–$10,000 per day
+
+Transfer limits (card-to-card within Uzbekistan):
+- UzCard/Humo transfers: Up to 50,000,000 UZS per day (varies by bank)
+- Transfer fees: 0.5–1% of transferred amount (capped at a maximum fee)
+
+Contactless payment limits:
+- Transactions below 200,000–500,000 UZS: No PIN required
+- Transactions above this threshold: PIN required
+- These thresholds may be adjusted by the bank based on security settings
+
+------------------------------------------------------------------------
+7.3 BANK FEES AND COMMISSIONS
+------------------------------------------------------------------------
+
+Card issuance fee:
+- UzCard Standard: Free or 20,000–50,000 UZS one-time fee (varies by bank)
+- Humo Standard: Free or 20,000–50,000 UZS one-time fee
+- Visa Classic: $5–$10 equivalent issuance fee
+- Mastercard Standard: $5–$10 equivalent issuance fee
+- Premium cards: Higher issuance fees
+
+Annual service (maintenance) fee:
+- UzCard Standard: 20,000–100,000 UZS per year
+- UzCard Gold: 50,000–200,000 UZS per year
+- Visa Classic: $5–$20 per year
+- Visa Gold: $15–$40 per year
+- Visa Platinum: $30–$70 per year
+- Some cards with salary accounts have no maintenance fee
+
+ATM withdrawal fees:
+- Own bank ATMs: Free in most cases
+- Other bank ATMs (domestic, same network): 0.5–1% (minimum fee applies)
+- International ATMs (abroad): 2–3% plus fixed fee ($2–$5 per transaction)
+
+POS payment fees for cardholder:
+- Domestic POS payments: Free for cardholder
+- Merchant pays 0.5–2% merchant discount rate to the bank/acquirer
+
+Online payment fees:
+- Domestic online: Free for cardholder in most cases
+- International online: 1–3% currency conversion markup may apply
+
+Currency conversion fee:
+- When transacting in a currency different from the card's currency
+- Banks typically apply 1–3% above the official exchange rate
+- This fee is separate from the transaction amount
+
+Overdraft fee (if overdraft is enabled):
+- Interest rate: 18–30% per annum on overdraft amount (approximate)
+- Overdraft activation fee may apply
+
+Duplicate statement fee:
+- Paper statement: 5,000–20,000 UZS per statement
+- Electronic/online statement: Usually free
+
+Card replacement fee:
+- Standard replacement: 10,000–50,000 UZS
+- Express/urgent replacement: 50,000–150,000 UZS
+- Replacement due to bank error: Free
+
+
+================================================================================
+SECTION 8: PROBLEMS AND SOLUTIONS
+================================================================================
+
+------------------------------------------------------------------------
+PROBLEM 1: CARD NOT WORKING AT ATM
+------------------------------------------------------------------------
+Description: Customer inserts card at an ATM but the card is rejected or
+the transaction cannot be completed.
+
+Possible Causes:
+a) Card is blocked (wrong PIN entered 3+ times, security block, self-blocked)
+b) Card is expired (expiration date has passed)
+c) Card is damaged (chip or magnetic stripe is scratched or damaged)
+d) ATM does not support the card network (e.g., Visa card at a UzCard-only ATM)
+e) ATM is out of cash or has a technical malfunction
+f) Card has been demagnetized (stored near magnetic sources)
+g) Daily withdrawal limit has been reached
+h) Account balance is zero or insufficient
+
+Solutions:
+a) Check if card is blocked via mobile banking app; unblock if possible or call
+   the bank. Verify remaining PIN attempts.
+b) Request card renewal at the bank branch.
+c) Visit the bank to request a card replacement.
+d) Try a different ATM that supports your card network.
+e) Try a different ATM or return later.
+f) Keep card away from magnets; request replacement if demagnetized.
+g) Check daily limit via mobile app; wait until the next calendar day.
+h) Add funds to the account.
+
+------------------------------------------------------------------------
+PROBLEM 2: MONEY DEDUCTED BUT PAYMENT FAILED
+------------------------------------------------------------------------
+Description: Customer pays at a POS terminal or online, the amount is
+deducted from the balance, but the merchant confirms the payment was not received
+or the order was not completed.
+
+Possible Causes:
+a) Network communication error between merchant terminal and bank
+b) Pending authorization that has not cleared
+c) Double transaction (duplicate charge)
+d) Online payment: 3D Secure OTP timed out but initial authorization went through
+e) Refund processing delay
+
+Solutions:
+a) Check account statement — if transaction appears as "pending," wait 3–5 days.
+   If not resolved, contact the bank with the transaction reference.
+b) Wait for the pending transaction to clear or reverse (usually within 7 days).
+c) Report to bank to initiate a duplicate charge dispute.
+d) Contact the merchant to confirm order status; if order was not placed, contact
+   the bank to reverse the authorization.
+e) Request a refund from the merchant; if they confirm the refund has been
+   processed, wait up to 14 business days for it to appear.
+
+Important: Always keep payment receipts, screenshots of error messages, and
+order confirmation numbers when contacting the bank or merchant.
+
+------------------------------------------------------------------------
+PROBLEM 3: PIN CODE FORGOTTEN
+------------------------------------------------------------------------
+Description: Customer cannot remember their PIN and has been locked out.
+
+Possible Causes:
+- Customer forgot the PIN
+- Card may be temporarily blocked after 3 wrong PIN attempts
+
+Solutions:
+1. Do NOT attempt more PIN entries if you are unsure — 3 wrong attempts will
+   block the card.
+2. Visit the nearest bank branch with a valid passport.
+3. Request PIN reset.
+4. Bank resets the PIN and the customer sets a new PIN at the ATM or via mobile app.
+5. Alternatively, contact the call center to initiate PIN reset (may require
+   identity verification and a branch visit for security).
+
+------------------------------------------------------------------------
+PROBLEM 4: CARD LOST OR STOLEN
+------------------------------------------------------------------------
+Description: Customer cannot locate their card or suspects it has been stolen.
+
+Immediate Actions:
+1. Block the card immediately via:
+   - Mobile banking app (fastest method)
+   - Call center 24/7 hotline
+   - Bank branch
+2. Review recent transactions for unauthorized charges.
+3. Report unauthorized transactions to the bank.
+4. File a police report if the card was stolen (required for some chargeback cases).
+5. Request a new card from the bank.
+6. Update saved card details in any apps or websites.
+
+------------------------------------------------------------------------
+PROBLEM 5: CARD BLOCKED FOR UNKNOWN REASON
+------------------------------------------------------------------------
+Description: Customer's card stops working unexpectedly without them blocking it.
+
+Possible Causes:
+a) Bank's fraud detection system flagged a transaction
+b) Card expired and was automatically deactivated
+c) Account has been frozen due to legal or compliance reasons
+d) Multiple failed PIN attempts by someone else (possible theft attempt)
+e) Bank sent a security notification and blocked pending customer response
+
+Solutions:
+a) Call the bank's customer service to inquire about the reason. Confirm that
+   recent transactions were genuine.
+b) Check the expiration date on the card. If expired, request renewal.
+c) Contact the bank to understand the reason and resolve account issues.
+d) Change PIN immediately and monitor for unauthorized activity.
+e) Respond to the bank's security query and verify transactions.
+
+------------------------------------------------------------------------
+PROBLEM 6: ONLINE PAYMENT DECLINED DESPITE SUFFICIENT BALANCE
+------------------------------------------------------------------------
+Description: Customer has enough balance but online payment is being declined.
+
+Possible Causes:
+a) Online payments not enabled on the card
+b) 3D Secure not set up or OTP not received
+c) Incorrect CVV or card details entered
+d) Online payment daily limit reached
+e) Merchant does not accept the card network
+f) Browser or device has a security issue blocking the payment
+
+Solutions:
+a) Enable online payments via mobile banking app under card settings.
+b) Ensure mobile number registered with the bank is active and can receive SMS.
+   Contact the bank if OTP is not arriving.
+c) Double-check all card details entered on the payment page.
+d) Check online payment limit via mobile app; contact bank to increase.
+e) Check if the merchant's accepted payment methods list includes your card type.
+f) Try a different browser, clear cache, disable VPN, or try another device.
+
+------------------------------------------------------------------------
+PROBLEM 7: TRANSACTION NOT APPEARING IN STATEMENT
+------------------------------------------------------------------------
+Description: Customer performed a transaction but it does not appear in their
+account statement or mobile banking transaction history.
+
+Possible Causes:
+a) Transaction is still pending (authorized but not settled)
+b) Settlement delay (especially on weekends or public holidays)
+c) Date filter in mobile app not showing the transaction date correctly
+d) Transaction was declined and no debit occurred
+
+Solutions:
+a) Check the "pending transactions" section in mobile app.
+b) Wait 2–3 business days for the transaction to appear.
+c) Adjust date range filter in the mobile banking app's transaction history.
+d) Verify if funds were actually deducted from the balance.
+
+------------------------------------------------------------------------
+PROBLEM 8: CARD EXPIRATION AND RENEWAL
+------------------------------------------------------------------------
+Description: Customer's card is nearing or has passed its expiration date.
+
+Card expiration details:
+- Bank cards typically have a validity period of 2–5 years
+- Expiration date is printed as MM/YY on the front of the card
+- The card expires at the end of the printed month (e.g., 05/26 expires
+  at the end of May 2026)
+
+Renewal process:
+1. Bank usually sends SMS notification 30–60 days before expiration
+2. Customer visits bank branch to request a new card
+3. New card is issued with a new expiration date (card number may remain
+   the same or change, depending on bank policy)
+4. Old card should be destroyed (cut up) after new card is activated
+5. Update card details on any saved payment methods
+
+Automatic renewal:
+Some banks automatically issue a renewed card and mail it or notify the customer
+to collect from the branch. Contact your bank for their specific renewal policy.
+
+------------------------------------------------------------------------
+PROBLEM 9: SMS NOTIFICATION NOT RECEIVED
+------------------------------------------------------------------------
+Description: Customer is not receiving SMS notifications for transactions.
+
+Possible Causes:
+a) Mobile number changed and not updated at the bank
+b) Mobile operator network issue or SMS spam filter
+c) SMS notification service disabled in card settings
+d) Account balance is zero and SMS subscription has lapsed
+
+Solutions:
+a) Visit the bank to update the registered mobile number.
+b) Check if SMS from the bank number is blocked; contact mobile operator.
+c) Enable SMS notifications in mobile banking app under notification settings.
+d) Top up account to cover SMS subscription fee if applicable.
+
+------------------------------------------------------------------------
+PROBLEM 10: WRONG TRANSFER AMOUNT OR WRONG RECIPIENT
+------------------------------------------------------------------------
+Description: Customer transferred money to the wrong card number or entered
+the incorrect amount.
+
+Solutions:
+1. Contact the bank IMMEDIATELY via call center.
+2. Provide details of the transfer (amount, recipient card number, time).
+3. Bank may be able to reverse the transfer if the recipient account has
+   not been depleted.
+4. If funds cannot be reversed automatically, the bank may attempt to contact
+   the recipient's bank.
+5. For legally recovering funds transferred to a wrong recipient, the customer
+   may need to file a formal written complaint and, in some cases, legal action.
+
+Note: Banks are not legally obligated to guarantee recovery of funds sent to
+the wrong account. Exercise extreme care when entering recipient card numbers.
+Always double-check the recipient's name displayed after entering a card number
+before confirming a transfer.
+
+
+================================================================================
+SECTION 9: CUSTOMER SUPPORT RESPONSES (CALL CENTER SCRIPTS)
+================================================================================
+
+------------------------------------------------------------------------
+SCENARIO 1: "I LOST MY CARD"
+------------------------------------------------------------------------
+Customer: "I think I lost my card. What should I do?"
+
+Recommended Response:
+"I understand how stressful that can be. Let's take care of this right away
+to protect your account.
+
+First, I need to verify your identity. Could you please provide me with your
+full name and passport number?
+
+[After verification]
+
+Thank you. I've located your account. I'll now place a temporary block on your
+card to prevent any unauthorized use.
+
+Your card ending in [XXXX] has been successfully blocked. No further
+transactions can be made with this card.
+
+I'd recommend checking your recent transaction history in your mobile banking
+app to confirm there are no unauthorized charges. If you see anything
+suspicious, please let me know right away.
+
+If you find the card later, you can unblock it through the app or by calling
+us again. If you'd like to order a replacement card, you can visit your nearest
+bank branch with your passport.
+
+Is there anything else I can help you with today?"
+
+------------------------------------------------------------------------
+SCENARIO 2: "MY TRANSACTION FAILED"
+------------------------------------------------------------------------
+Customer: "I tried to pay at a store but my card was declined. My account has
+money. What's wrong?"
+
+Recommended Response:
+"I'm sorry to hear that. Let me help you figure out what happened.
+
+To better assist you, could you please confirm your full name and the last 4
+digits of your card?
+
+[After verification]
+
+Thank you. I can see your account here.
+
+There are a few possible reasons your card may have been declined:
+1. If you entered an incorrect PIN three times, the card may have been
+   temporarily blocked for security.
+2. The merchant's terminal may not support your card type.
+3. Your daily spending or withdrawal limit may have been reached.
+4. There may have been a temporary network issue at the time of the transaction.
+
+Let me check the status of your card now...
+
+[If card is blocked]: Your card was temporarily blocked after multiple
+incorrect PIN entries. I can arrange to have it unblocked — you can also do
+this through your mobile banking app under the Cards section.
+
+[If limit reached]: It appears your daily limit has been reached. Your limit
+resets at midnight. Would you like to request a limit increase?
+
+[If no obvious reason]: Everything looks fine on our end. The issue may have
+been with the merchant's terminal. Please try again or use another payment
+method, and contact us if the problem persists.
+
+Is there anything else I can help with?"
+
+------------------------------------------------------------------------
+SCENARIO 3: "I WANT TO INCREASE MY CARD LIMIT"
+------------------------------------------------------------------------
+Customer: "I want to increase my daily limit on my card."
+
+Recommended Response:
+"Of course, I'd be happy to assist with that.
+
+Before I proceed, I need to verify your identity. Could you please provide
+your full name, passport number, and the phone number registered on your account?
+
+[After verification]
+
+Thank you. I can see your current account details.
+
+Your current daily ATM withdrawal limit is [X,000,000 UZS] and your daily
+online/POS payment limit is [X,000,000 UZS].
+
+We can process a limit increase request. Please note:
+- Limit increases are subject to your account type and credit history
+- Some increases can be processed immediately; others may require review
+- Premium accounts and salary accounts may be eligible for higher limits
+
+Could you tell me:
+1. What type of limit you'd like to increase (ATM, online payments, or both)?
+2. What new limit you are requesting?
+
+[Process the request]
+
+I've submitted your limit increase request. [If approved immediately]: Your
+new limit is effective immediately. [If pending review]: Our team will review
+and you'll receive an SMS within 1–2 business days.
+
+Is there anything else I can help you with?"
+
+------------------------------------------------------------------------
+SCENARIO 4: "I SUSPECT FRAUDULENT ACTIVITY ON MY ACCOUNT"
+------------------------------------------------------------------------
+Customer: "I see a transaction on my account that I didn't make."
+
+Recommended Response:
+"I take this very seriously and I'm going to help you right away.
+
+First, let's secure your account. I'll need to verify your identity before
+we proceed. Please provide your full name, passport number, and the answer
+to your security question.
+
+[After verification]
+
+Thank you. Let me pull up your account.
+
+I can see the transaction you're referring to — a [amount] transaction on
+[date] at [merchant/location]. Is that the one you didn't authorize?
+
+Here's what I'm going to do right now:
+1. I'm placing an immediate block on your card to prevent further unauthorized use.
+2. I'm flagging these transactions as disputed.
+3. A fraud investigation will be opened. You'll receive a reference number
+   via SMS.
+
+You should also:
+- Change your mobile banking password immediately
+- Check if any other transactions look unfamiliar
+- If you believe your SIM card may be compromised, contact your mobile
+  operator urgently
+
+Our fraud team will contact you within [X] business days. If the transactions
+are confirmed as unauthorized, the amounts will be refunded to your account.
+
+Your card is now blocked. Would you like me to initiate a replacement card
+request as well?"
+
+------------------------------------------------------------------------
+SCENARIO 5: "MY MONEY WAS DEDUCTED BUT PAYMENT DID NOT GO THROUGH"
+------------------------------------------------------------------------
+Customer: "I paid online but the payment failed. But money was taken from my card."
+
+Recommended Response:
+"I understand how frustrating this can be. Let me look into this for you.
+
+Could you please confirm your card details and the approximate date, time,
+and amount of the transaction?
+
+[After verification]
+
+I can see the transaction in your account. The amount is currently showing
+as [pending/debited]. 
+
+In most cases where a payment is authorized but the order did not complete,
+the amount appears as a pending hold. This hold typically releases within
+3 to 7 business days and the funds return to your account automatically.
+
+If the merchant has confirmed you were charged but no order was created,
+this would be a failed transaction where the merchant needs to process a
+refund. I recommend:
+1. Contacting the merchant directly and requesting a refund.
+2. If the merchant is unresponsive or unable to process the refund within
+   14 business days, contact us again to raise a formal dispute.
+
+Would you like me to note this on your account and provide you with a
+reference number for follow-up?"
+
+------------------------------------------------------------------------
+SCENARIO 6: "I FORGOT MY PIN"
+------------------------------------------------------------------------
+Customer: "I've forgotten my PIN. Can you tell me what it is?"
+
+Recommended Response:
+"For your security, bank employees are not able to access or view your PIN —
+not even over the phone. This is to protect you.
+
+What I can do is help you reset your PIN so you can create a new one.
+
+Please note: Do NOT attempt to enter your PIN at an ATM if you're not
+sure — three wrong attempts will block your card.
+
+To reset your PIN, you have these options:
+1. Visit your nearest bank branch with your passport. Our team will reset
+   your PIN and you can create a new one at the ATM.
+2. Use the mobile banking app: Go to Cards, select your card, and choose
+   'Change PIN.' You'll need to verify with an OTP sent to your registered
+   number.
+
+Would you like me to give you directions to the nearest branch, or walk you
+through the mobile app process?"
+
+
+================================================================================
+SECTION 10: FREQUENTLY ASKED QUESTIONS (FAQ)
+================================================================================
+
+------------------------------------------------------------------------
+GENERAL CARD QUESTIONS
+------------------------------------------------------------------------
+
+Q1: What is a bank card?
+A: A bank card is a payment card issued by a bank that allows you to access
+your funds, make purchases, withdraw cash at ATMs, and pay online. It is linked
+to your bank account.
+
+Q2: What is the difference between a debit card and a credit card?
+A: A debit card uses your own money from your bank account. A credit card lets
+you borrow money from the bank up to a credit limit, which you repay later.
+
+Q3: What is UzCard?
+A: UzCard is Uzbekistan's national payment card system operated by the UzCard
+Processing Center. It works only within Uzbekistan and is the most widely used
+card system in the country for domestic transactions.
+
+Q4: What is Humo?
+A: Humo is Uzbekistan's second national payment card system, launched in 2019
+and operated by the National Interbank Processing Center (NIPC). It works only
+within Uzbekistan and is accepted at most ATMs and POS terminals nationwide.
+
+Q5: Can I use my UzCard or Humo card outside Uzbekistan?
+A: No. UzCard and Humo are domestic payment systems and only work within
+Uzbekistan. For international transactions or travel abroad, you need a
+Visa or Mastercard issued by a Uzbekistan bank.
+
+Q6: How do I get a bank card in Uzbekistan?
+A: Visit any branch of a commercial bank with your passport. Complete the card
+application form, provide required documents, and a card will be issued to you
+immediately or within a few business days.
+
+Q7: What is a CVV/CVC code?
+A: It is a 3-digit security code printed on the back of your card (on the
+signature strip). It is used as additional verification for online and
+phone-based transactions. Never share this code with anyone.
+
+Q8: What is a virtual card?
+A: A virtual card is a digital-only card with no physical form. It exists in a
+mobile banking app and is used for online purchases. It provides extra security
+as it keeps your main card details safe.
+
+Q9: What is a contactless payment?
+A: Contactless payment allows you to pay by simply tapping or holding your card
+near a payment terminal's contactless reader. No card insertion or PIN is
+required for small amounts.
+
+Q10: What is NFC payment?
+A: NFC (Near Field Communication) is the technology that enables contactless
+payments. It allows your card or smartphone to communicate wirelessly with the
+payment terminal when held nearby.
+
+------------------------------------------------------------------------
+PIN AND SECURITY QUESTIONS
+------------------------------------------------------------------------
+
+Q11: How many times can I enter a wrong PIN before my card is blocked?
+A: Typically 3 consecutive wrong PIN entries will temporarily block your card.
+The exact number may vary slightly by bank, but 3 is the standard.
+
+Q12: How do I change my PIN?
+A: You can change your PIN at any ATM of the issuing bank, through the bank's
+mobile banking app, or by visiting a bank branch.
+
+Q13: Can a bank employee tell me my PIN?
+A: No. Bank employees cannot access your PIN. If anyone claiming to be from
+your bank asks for your PIN, it is a fraud attempt. Report it immediately.
+
+Q14: What should I do if I suspect someone knows my PIN?
+A: Change your PIN immediately via ATM or mobile app. Check your recent
+transactions for any unauthorized activity. Contact your bank if you spot
+anything suspicious.
+
+Q15: What is 3D Secure?
+A: 3D Secure is a security protocol for online payments. When you make an
+online purchase, a one-time password (OTP) is sent to your registered phone
+number to verify that you are the authorized cardholder.
+
+Q16: How can I protect my card from fraud?
+A: Never share your card number, PIN, CVV, or OTP with anyone. Use ATMs in
+secure locations. Monitor transactions regularly. Enable SMS notifications.
+Use 3D Secure for online purchases. Report lost or stolen cards immediately.
+
+Q17: What is card skimming?
+A: Skimming is when criminals attach a device to an ATM or POS terminal to
+steal your card's magnetic stripe data and capture your PIN. Always check for
+unusual attachments on ATMs before using them.
+
+Q18: What is phishing?
+A: Phishing is when criminals send fake emails, messages, or create fake
+websites to trick you into providing your card details. Always verify you are
+on the official website and never click on suspicious links.
+
+Q19: What is a SIM swap attack?
+A: A SIM swap attack is when a criminal convinces your mobile operator to
+transfer your phone number to a new SIM they control. They can then receive
+your OTPs. If you suddenly lose mobile service, contact your operator immediately.
+
+Q20: Can I use my card on public Wi-Fi?
+A: It is not recommended. Public Wi-Fi networks can be insecure. Avoid
+entering card details or accessing mobile banking on unsecured public Wi-Fi.
+Use mobile data or a VPN instead.
+
+------------------------------------------------------------------------
+ATM QUESTIONS
+------------------------------------------------------------------------
+
+Q21: What is the maximum amount I can withdraw from an ATM per day?
+A: Limits vary by card type and bank. For standard UzCard/Humo cards, the
+typical daily limit is 10,000,000 UZS. Contact your bank for the exact limit
+on your card.
+
+Q22: My card was swallowed by the ATM. What do I do?
+A: Do not leave the ATM. Note the ATM's location and ID number (usually
+printed on the machine). Call your bank immediately. The card can be retrieved
+or cancelled and replaced.
+
+Q23: The ATM dispensed less cash than I requested. What do I do?
+A: Do not leave the ATM. Note the discrepancy and contact your bank immediately.
+ATM machines are reconciled daily and any dispensing errors are correctable
+through a formal complaint.
+
+Q24: Can I use any ATM to withdraw from my UzCard account?
+A: You can use any ATM in Uzbekistan that is on the UzCard network. Using your
+own bank's ATMs is usually free; using other banks' ATMs may incur a small fee.
+
+Q25: My ATM receipt shows a different amount than what was dispensed. What do I do?
+A: Contact your bank immediately with the receipt and details of the
+discrepancy. The bank will investigate and correct the error if confirmed.
+
+------------------------------------------------------------------------
+ONLINE PAYMENT QUESTIONS
+------------------------------------------------------------------------
+
+Q26: How do I enable online payments on my card?
+A: Log in to your mobile banking app, go to Cards, select your card, and
+find the Online Payments setting to enable it. Alternatively, call your bank.
+
+Q27: My OTP is not arriving. What should I do?
+A: Ensure your mobile number is registered with the bank and is active. Check
+that SMS messages are not blocked. If the problem persists, contact your bank.
+
+Q28: Is it safe to save my card details on shopping websites?
+A: Use caution. Only save card details on reputable, secure websites (HTTPS).
+Consider using a virtual card for online shopping to protect your main card.
+
+Q29: What is a payment gateway?
+A: A payment gateway is a technology that securely processes card payment
+information between the customer, merchant, and the banks during an online
+transaction.
+
+Q30: Can I use Payme or Click without a bank card?
+A: Payme and Click require a linked UzCard or Humo card to fund the wallet.
+However, once funded, you can transact within the platform using the wallet balance.
+
+------------------------------------------------------------------------
+TRANSACTION QUESTIONS
+------------------------------------------------------------------------
+
+Q31: How long does a bank transfer take?
+A: Transfers between accounts at the same bank (intra-bank) are typically
+instant or within a few minutes. Transfers between different banks
+(inter-bank) within Uzbekistan take 1 business day. International transfers
+typically take 3–5 business days.
+
+Q32: I sent money to the wrong account. Can it be reversed?
+A: Contact your bank immediately. Recovery is not guaranteed, but the bank
+will attempt to contact the receiving bank to retrieve the funds. Act quickly.
+
+Q33: Why is my transaction showing as "pending"?
+A: A pending transaction has been authorized but not yet settled. This is
+normal and usually resolves within 1–5 business days.
+
+Q34: How long does a refund take to appear on my account?
+A: For domestic card transactions, refunds typically appear within 1–5
+business days. For international transactions, it may take 5–14 business days.
+
+Q35: Can I cancel a card payment that I just made?
+A: You cannot cancel a completed payment directly. You must request a refund
+from the merchant. If the merchant refuses and the charge was unauthorized,
+you can file a chargeback with your bank.
+
+Q36: What is a chargeback?
+A: A chargeback is a forced reversal of a card transaction initiated by the
+cardholder's bank on behalf of the cardholder when a transaction is disputed.
+It is a consumer protection mechanism.
+
+Q37: How do I check my transaction history?
+A: You can view your transaction history in your bank's mobile app,
+online banking portal, or by requesting a statement at the bank branch.
+
+Q38: What is a transaction reference number?
+A: It is a unique code assigned to each transaction for tracking and
+identification purposes. Always note this number when disputing a transaction.
+
+------------------------------------------------------------------------
+CARD MANAGEMENT QUESTIONS
+------------------------------------------------------------------------
+
+Q39: How long does it take to get a new card?
+A: Standard card issuance typically takes 1–5 business days. Some banks offer
+instant card issuance at the branch. Express cards may be issued within the
+same day for an additional fee.
+
+Q40: How do I activate my new card?
+A: You can activate your card at any ATM of the issuing bank by inserting it
+and entering your PIN, through the mobile banking app, or by calling the bank.
+
+Q41: What is the validity period of a bank card?
+A: Most bank cards in Uzbekistan are valid for 2–5 years. The expiration date
+is printed on the front of the card in MM/YY format.
+
+Q42: What happens when my card expires?
+A: Contact your bank before expiry to request a new card. The bank will issue
+a new card with a new expiration date. You should activate the new card and
+destroy the old one.
+
+Q43: Can I have multiple cards linked to one account?
+A: Yes. Banks typically allow additional (supplementary) cards to be issued
+on the same account, often for family members. These share the same account
+balance with individual card limits available.
+
+Q44: Can I temporarily freeze my card without cancelling it?
+A: Yes. Most banks allow you to temporarily freeze (block) your card through
+the mobile banking app. The card can be unfrozen at any time without needing
+to issue a new card.
+
+Q45: How do I close/cancel my card?
+A: Visit the bank branch with your passport and fill out a card closure form.
+Any outstanding balance must be cleared. Return or destroy the physical card.
+
+------------------------------------------------------------------------
+FEES AND LIMITS QUESTIONS
+------------------------------------------------------------------------
+
+Q46: Is there a fee for using my card at POS terminals?
+A: Generally, no. POS payments do not incur fees for the cardholder in
+Uzbekistan. The merchant pays the processing fee.
+
+Q47: Are there fees for mobile banking transfers?
+A: Yes, typically. Transfers between different banks usually carry a fee of
+0.5–1% of the amount. Transfers within the same bank are often free or carry
+a nominal fee. Check your bank's fee schedule for exact amounts.
+
+Q48: How can I increase my card's daily limit?
+A: Contact your bank's call center, visit a branch, or use the mobile app
+if the bank offers limit management. Limit increases are subject to bank
+approval and may depend on your account type and history.
+
+Q49: Are there fees for international transactions?
+A: Yes. International transactions typically incur a currency conversion fee
+of 1–3% above the exchange rate, and foreign ATM withdrawal fees of 2–3%
+plus a fixed fee. Check your bank's international fee schedule.
+
+Q50: What is the minimum balance required on a card account?
+A: This varies by bank and account type. Some accounts require a minimum
+balance of 10,000–50,000 UZS. Others have no minimum balance requirement.
+Check with your specific bank.
+
+------------------------------------------------------------------------
+ADDITIONAL FREQUENTLY ASKED QUESTIONS
+------------------------------------------------------------------------
+
+Q51: Can I use my Uzbekistan card on international websites like Amazon?
+A: You need a Visa or Mastercard issued in Uzbekistan for international
+websites. UzCard and Humo cards cannot be used for international online
+purchases. Some virtual Visa cards issued by Uzbekistan banks work on
+international platforms.
+
+Q52: What should I do before traveling abroad with my bank card?
+A: Notify your bank of your travel dates and destinations to prevent your card
+from being blocked due to unusual foreign activity. Ensure your Visa or
+Mastercard is enabled for international use and check the foreign transaction fees.
+
+Q53: What is the Payme payment system?
+A: Payme is a widely used Uzbek digital payment platform that allows users to
+pay utility bills, make transfers, pay at merchants, and shop online. It requires
+a linked UzCard or Humo card.
+
+Q54: What is the Click payment system?
+A: Click is another popular Uzbek digital payment platform similar to Payme,
+offering bill payments, transfers, and mobile commerce services.
+
+Q55: Can minors have a bank card in Uzbekistan?
+A: Yes. Children aged 14 and above can open their own account and receive a
+card. Children under 14 may receive supplementary cards under parental account
+with parental consent.
+
+Q56: What is an overdraft?
+A: An overdraft allows you to spend more than your account balance, up to an
+approved limit. The overdrawn amount is essentially a short-term loan that
+accrues interest. Overdraft must be applied for and approved by the bank.
+
+Q57: Can I use my card to pay utility bills in Uzbekistan?
+A: Yes. Through mobile apps like Payme or Click, or directly via some banks'
+mobile banking apps, you can pay electricity, gas, water, internet, and other
+utility bills using your linked card.
+
+Q58: What is a salary card (korporativ karta)?
+A: A salary card is a debit card issued to an employee by the employer's bank
+for receiving salary payments. The employer's company has an agreement with
+the bank to disburse salaries directly to these cards.
+
+Q59: What is the difference between UzCard and Humo?
+A: Both are national domestic payment systems in Uzbekistan. UzCard was
+established in 2004 and is more widely distributed. Humo was established in
+2019 with more modern infrastructure. Since 2021, both systems are
+interoperable — you can use either card at any domestic ATM or POS terminal.
+
+Q60: What do I do if I receive a suspicious call asking for my card details?
+A: Hang up immediately. Your bank will never ask for your full card number,
+PIN, CVV, or OTP over the phone. Call your bank on the official number to
+report the suspicious call. Do not call back numbers from unknown callers.
+
+Q61: What is a card statement?
+A: A card statement is a summary of all transactions made with your card over
+a specific period (usually monthly). It shows credits, debits, fees, and the
+current balance. Available via mobile app or at the branch.
+
+Q62: Can I pay taxes using my bank card in Uzbekistan?
+A: Yes. Tax payments can be made through the official online tax portal
+(taxes.uz) and through major mobile banking platforms using a linked bank card.
+
+Q63: What is contactless payment limit in Uzbekistan?
+A: The contactless payment limit (without PIN) is generally set between
+200,000 and 500,000 UZS. Transactions above this threshold require PIN entry.
+Exact limits depend on the issuing bank and may be adjustable.
+
+Q64: How do I link my card to Payme?
+A: Open the Payme app, go to Cards, click Add Card, enter your 16-digit card
+number, expiration date, and the OTP sent to your registered number. The card
+will be linked and ready to use.
+
+Q65: What happens if I receive a refund on a cancelled card?
+A: The refund is directed to the bank account associated with the cancelled
+card. Since the account usually remains active even after card cancellation,
+the funds will be credited to the account and accessible via your new card or
+at the branch.
+
+Q66: What is an installment card (rassrochka)?
+A: An installment card allows you to purchase goods and pay in equal monthly
+installments without interest (or at reduced interest) over a set period
+(e.g., 3, 6, or 12 months). Popular in Uzbekistan for electronics and
+household appliance purchases.
+
+Q67: How do I know if my card is enabled for international online payments?
+A: Check your card settings in the mobile banking app under the card details
+or settings section. You can enable or disable international online payments there.
+Alternatively, call your bank's customer service.
+
+Q68: Can I receive international money transfers to my Uzbekistan card?
+A: Yes, through international transfer services like Western Union, MoneyGram,
+and international SWIFT transfers. For SWIFT, you'll need your bank's SWIFT code
+and your account number. Some banks also support transfers via Visa Direct
+or Mastercard Send.
+
+Q69: What is a QR payment?
+A: QR payment allows you to pay by scanning a QR code displayed by the merchant
+using your mobile banking app. The payment is processed instantly without
+needing to enter card details manually.
+
+Q70: Is mobile banking safe for card management?
+A: Yes, when the official app is downloaded from the bank's official channels
+(App Store or Google Play). Always use a strong password, enable biometric
+login, keep your app updated, and do not use banking apps on jailbroken or
+rooted devices.
+
+Q71: What is a bank's acquiring service?
+A: Bank acquiring refers to the bank service that allows merchants to accept
+card payments through POS terminals and online payment gateways. The bank
+that provides this service to the merchant is called the acquirer.
+
+Q72: Can I set spending limits on my card?
+A: Many Uzbekistan banks allow you to set custom daily spending limits through
+the mobile banking app, lower than the bank's maximum allowed limit. This is
+a security feature.
+
+Q73: What is a foreign currency account?
+A: A foreign currency account allows you to hold and transact in foreign
+currencies (USD, EUR, etc.). Visa and Mastercard cards linked to such accounts
+can be used for international transactions without currency conversion charges
+(as the account is already in the foreign currency).
+
+Q74: Can I use my bank card at online gambling or betting sites?
+A: Some banks block transactions to gambling or betting merchants at the card
+level. Additionally, Uzbekistan regulations may restrict certain categories
+of online transactions. Attempting such transactions may lead to card flags.
+
+Q75: What should I do if an ATM gives me counterfeit bills?
+A: Note the ATM location, ID number, time, and transaction reference. Contact
+your bank immediately. Do not try to use the counterfeit notes. Report to
+local law enforcement if necessary.
+
+
+================================================================================
+SECTION 11: CARD NETWORK COMPARISON SUMMARY
+================================================================================
+
+Feature               | UzCard        | Humo          | Visa          | Mastercard
+----------------------|---------------|---------------|---------------|-------------
+Domestic use          | Yes           | Yes           | Yes           | Yes
+International use     | No            | No            | Yes           | Yes
+Currency              | UZS only      | UZS only      | Multi-currency| Multi-currency
+ATM access (UZ)       | All UZ ATMs   | All UZ ATMs   | Partner ATMs  | Partner ATMs
+ATM access (Global)   | No            | No            | Plus network  | Cirrus network
+Contactless           | Yes           | Yes           | Yes           | Yes
+Online payments (UZ)  | Yes           | Yes           | Yes           | Yes
+Online payments (Int) | No            | No            | Yes           | Yes
+Fraud protection      | Basic         | Basic         | Advanced      | Advanced
+3D Secure             | Yes           | Yes           | Verified by V | SecureCode
+Issued since          | 2004          | 2019          | Various       | Various
+
+
+================================================================================
+SECTION 12: GLOSSARY OF BANKING CARD TERMS
+================================================================================
+
+Account: A formal banking arrangement in which a bank holds funds on behalf of
+a customer.
+
+Acquirer: A bank or financial institution that processes card transactions on
+behalf of a merchant.
+
+ATM (Automated Teller Machine): A machine that allows customers to perform
+banking operations such as cash withdrawal, balance inquiry, and fund transfers.
+
+Authorization: The process by which the issuing bank approves or declines a
+card transaction.
+
+Balance: The amount of money available in a bank account.
+
+Card Number: The 16-digit number embossed on the front of a bank card that
+uniquely identifies the card account.
+
+Cardholder: The person in whose name a bank card is issued.
+
+Chargeback: A forced reversal of a card transaction initiated by the issuing
+bank at the cardholder's request following a dispute.
+
+Chip (EMV): An embedded microchip on a bank card that provides secure data
+storage and enables encrypted transaction processing.
+
+Contactless: A payment method using NFC technology to make payments by tapping
+the card near a reader.
+
+Credit Limit: The maximum amount a cardholder can borrow on a credit card.
+
+CVV/CVC: Card Verification Value/Code — a 3-digit security number on the back
+of the card used for online and phone transactions.
+
+Debit Card: A card that deducts funds directly from the linked bank account.
+
+EMV: Europay, Mastercard, Visa — the global standard for chip-based payment
+cards.
+
+Expiration Date: The date printed on the card (MM/YY) after which the card is
+no longer valid.
+
+Fraud: Unauthorized use of a bank card or account for financial gain.
+
+Humo: Uzbekistan's domestic payment card system launched in 2019.
+
+Installment Card: A credit card that allows purchases to be paid in equal
+monthly installments.
+
+Issuer: The bank or financial institution that issues a card to a cardholder.
+
+Merchant: A business or individual that accepts card payments for goods or services.
+
+NFC (Near Field Communication): Wireless technology enabling contactless payments.
+
+OTP (One-Time Password): A temporary password sent to a registered mobile number
+for transaction verification.
+
+Overdraft: A facility allowing a cardholder to spend more than the account balance
+up to an approved limit.
+
+PCI DSS: Payment Card Industry Data Security Standard — the global security
+standard for card data protection.
+
+PIN (Personal Identification Number): A secret code used to authenticate card
+transactions at ATMs and POS terminals.
+
+POS (Point of Sale): The location and device where a card payment is made at a
+merchant.
+
+Pre-authorization: A temporary hold placed on a card balance to reserve funds
+for an expected charge.
+
+Refund: The return of funds to a cardholder's account following a transaction reversal.
+
+Settlement: The process by which funds are transferred from the cardholder's
+account to the merchant's account after a transaction.
+
+Skimming: A fraud technique using a device attached to an ATM or terminal to
+steal card data.
+
+Swift Code: An international bank identifier code used for international wire transfers.
+
+UzCard: Uzbekistan's primary national payment card system established in 2004.
+
+Virtual Card: A digital-only card with no physical form, used for online transactions.
+
+3D Secure: A security protocol adding an extra authentication step for online card
+transactions.
+
+
+================================================================================
+SECTION 13: IMPORTANT CONTACTS AND RESOURCES
+================================================================================
+
+UzCard Call Center: 1243 (short number within Uzbekistan, available 24/7)
+UzCard Website: uzcard.uz
+
+Humo Call Center: 1209 (short number within Uzbekistan, available 24/7)
+Humo Website: humo.uz
+
+Central Bank of Uzbekistan: cbu.uz
+Visa Global Support: Available on visa.com (for Uzbekistan bank-issued Visa cards,
+contact the issuing bank directly)
+
+Mastercard Global Support: Available on mastercard.com (for Uzbekistan bank-issued
+Mastercard cards, contact the issuing bank directly)
+
+Payme Support: payme.uz / in-app support
+Click Support: click.uz / in-app support
+
+Major Bank Hotlines (general reference):
+- Kapitalbank: 78 148 02 02
+- Hamkorbank: 1224
+- TBC Bank Uzbekistan: 71 200 03 03
+- Ipoteka Bank: 1212
+- Uzum Bank (Apelsin): 78 113 00 00
+- Ravnaq Bank: 78 150 55 55
+
+Note: Always verify current contact details directly with the bank, as numbers
+may change. This knowledge base uses reference numbers accurate as of early 2026.
+
+
+================================================================================
+SECTION 14: REGULATORY AND COMPLIANCE FRAMEWORK
+================================================================================
+
+The banking card system in Uzbekistan operates under the oversight and regulation
+of the following bodies:
+
+Central Bank of the Republic of Uzbekistan (CBU):
+- Issues regulations on payment systems and banking operations
+- Oversees the stability and security of domestic payment infrastructure
+- Establishes anti-money laundering (AML) and counter-terrorism financing (CTF)
+  requirements for banks
+- Sets consumer protection guidelines for banking services
+
+Law on Payments and Payment Systems:
+- Governs the legal framework for payment card operations in Uzbekistan
+- Establishes rights and obligations of payment system participants
+- Regulates dispute resolution mechanisms
+
+Law on Banks and Banking Activity:
+- Defines licensing and operational requirements for commercial banks
+- Establishes the framework for card issuance and management
+
+Consumer Protection:
+- Cardholders in Uzbekistan have the right to file complaints with their bank
+- If unresolved, complaints can be escalated to the Central Bank of Uzbekistan
+- The CBU accepts consumer financial complaints through its official website
+  and call center
+
+Anti-Money Laundering (AML) compliance:
+- Banks are required to monitor transactions for suspicious activity
+- Large cash transactions above certain thresholds trigger reporting requirements
+- Customers may be asked to provide documentation for large or unusual transactions
+- Refusing to provide identification or explanation for suspicious transactions
+  may result in account freezing pending investigation
+
+Data Protection:
+- Customer card data is protected under Uzbekistan's data protection regulations
+- Banks are prohibited from sharing customer financial data with unauthorized
+  third parties without consent
+- PCI DSS compliance is required for all entities handling card data
+
+
+================================================================================
+SECTION 15: BEST PRACTICES FOR CARDHOLDERS
+================================================================================
+
+For everyday use:
+1. Always keep your card in a safe, dedicated card slot — not loose in a bag.
+2. Memorize your PIN — never write it down near the card.
+3. Enable push notifications and SMS alerts for all transactions.
+4. Check your bank statement at least once a week.
+5. Sign the back of your card immediately upon receipt.
+6. Activate your card promptly — do not leave it inactive for months.
+
+For ATM use:
+1. Inspect the ATM for any suspicious attachments before inserting your card.
+2. Cover the keypad with your hand when entering your PIN.
+3. Do not accept assistance from strangers at ATMs.
+4. Collect your card before leaving the ATM — do not forget it in the slot.
+5. Take your receipt and destroy it safely after checking.
+6. Prefer ATMs inside bank branches or enclosed, monitored locations.
+
+For online shopping:
+1. Only shop on reputable, HTTPS-secured websites.
+2. Use virtual cards or dedicated online payment cards for online purchases.
+3. Never store card details in browsers or on unverified websites.
+4. Always verify the OTP is for the transaction you intended to make.
+5. Keep your mobile banking app updated.
+6. Log out of mobile banking after use.
+
+For travel:
+1. Notify your bank before international travel to prevent fraud flags.
+2. Carry at least two different payment methods (e.g., Visa and cash).
+3. Know the emergency card block number for use abroad (most banks accept
+   international calls on their customer service lines).
+4. Keep a record of your card numbers and bank contact in a secure location
+   separate from your wallet.
+
+For receiving cards by mail:
+1. Activate the card immediately upon receipt.
+2. Set up your PIN before first use.
+3. Destroy the PIN mailer after memorizing the PIN.
+4. If the card is not received by the expected date, contact the bank.
+
+
+================================================================================
+END OF KNOWLEDGE BASE
+================================================================================
+Document: bank_card_informations.txt
+Purpose: AI Call Center Knowledge Base — Bank Cards in Uzbekistan
+Total Sections: 15
+Prepared for: AI-powered banking call center assistant
+Language: English
+Coverage: Uzbekistan banking card ecosystem (UzCard, Humo, Visa, Mastercard)
+Last Updated: April 2026
+================================================================================
